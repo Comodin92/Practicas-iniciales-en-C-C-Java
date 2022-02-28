@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1353366728 source:d:\coding\c\entrega\unidad 5\ej6\main.cpp
+	<iostream>
+	"Cadena.h"
+
+1353366652 source:d:\coding\c\entrega\unidad 5\ej6\cadena.cpp
+	"Cadena.h"
+
+1353366424 d:\coding\c\entrega\unidad 5\ej6\cadena.h
+	<iostream>
+	<string.h>
+
+1459348240 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej6\cadena.cpp
+	"Cadena.h"
+
+1459348240 f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej6\cadena.h
+	<iostream>
+	<string.h>
+
+1459348240 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej6\main.cpp
+	<iostream>
+	"Cadena.h"
+

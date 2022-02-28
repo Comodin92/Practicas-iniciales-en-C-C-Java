@@ -1,0 +1,12 @@
+      Tipo_A - 2020-11-09 – Nodo K
+ CLIE.  PROD.   CANT      P. U.   
+======= ===== ======== ===========
+EL UNO  KX01       125        0.25
+EL UNO  JP104        1     1199.50
+EL UNO  PRB         29        1.99
+EL UNO  ST001        7        2.21
+ALMA    ST001       91        2.21
+ALMA    KX01      1523        0.25
+LA CAVA ST001       75        2.21
+LA CAVA PRB        205        1.99
+LA CAVA KX01       125        0.25

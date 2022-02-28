@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1354047529 source:c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\unidad 5\clasepersona\main.cpp
+	"funciones.h"
+	"fecha.h"
+
+1354045901 c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\unidad 5\clasepersona\funciones.h
+	<iostream>
+	<string.h>
+	"fecha.h"
+
+1354046330 c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\unidad 5\clasepersona\fecha.h
+	<iostream>
+	<string.h>
+
+1354047434 source:c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\unidad 5\clasepersona\funciones.cpp
+	"funciones.h"
+	"fecha.h"
+
+1354046988 source:c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\unidad 5\clasepersona\fecha.cpp
+	"fecha.h"
+
+1354048848 source:c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos y mas!!\trabajo practico 5\unidad 5\clasepersona\funciones.cpp
+	"funciones.h"
+	"fecha.h"
+
+1354045901 c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos y mas!!\trabajo practico 5\unidad 5\clasepersona\funciones.h
+	<iostream>
+	<string.h>
+	"fecha.h"
+
+1354046330 c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos y mas!!\trabajo practico 5\unidad 5\clasepersona\fecha.h
+	<iostream>
+	<string.h>
+
+1384140747 source:c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos y mas!!\trabajo practico 5\unidad 5\clasepersona\main.cpp
+	"funciones.h"
+	"fecha.h"
+
+1354048820 source:c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos y mas!!\trabajo practico 5\unidad 5\clasepersona\fecha.cpp
+	"fecha.h"
+
+1459348216 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\clasepersona\fecha.cpp
+	"fecha.h"
+
+1459348216 f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\clasepersona\fecha.h
+	<iostream>
+	<string.h>
+
+1459348216 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\clasepersona\funciones.cpp
+	"funciones.h"
+	"fecha.h"
+
+1459348216 f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\clasepersona\funciones.h
+	<iostream>
+	<string.h>
+	"fecha.h"
+
+1459348216 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\clasepersona\main.cpp
+	"funciones.h"
+	"fecha.h"
+

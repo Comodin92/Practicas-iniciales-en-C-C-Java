@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1608086178 source:c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_32bit\funciones.c
+	"funciones.h"
+	<stdlib.h>
+	<string.h>
+
+1606841259 c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_32bit\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1608084441 c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_32bit\que_hice.h
+
+1606689144 c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_32bit\tda_definiciones.h
+
+1608082391 source:c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_32bit\main.c
+	"main.h"
+
+1606689144 c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_32bit\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1608119766 source:d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_32bit\funciones.c
+	"funciones.h"
+	<stdlib.h>
+	<string.h>
+
+1606844859 d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_32bit\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1608088041 d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_32bit\que_hice.h
+
+1606692744 d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_32bit\tda_definiciones.h
+
+1608085991 source:d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_32bit\main.c
+	"main.h"
+
+1606692744 d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_32bit\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+

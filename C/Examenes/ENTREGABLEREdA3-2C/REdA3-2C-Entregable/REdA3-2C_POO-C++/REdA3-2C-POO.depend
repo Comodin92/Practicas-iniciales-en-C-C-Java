@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1607634050 source:c:\users\juan\downloads\entregablereda3-2c\reda3-2c-entregable\reda3-2c_poo-c++\main.cpp
+	"include/main.h"
+
+1607541376 c:\users\juan\downloads\entregablereda3-2c\reda3-2c-entregable\reda3-2c_poo-c++\include\main.h
+	<iostream>
+	"clase.h"
+
+1607737802 c:\users\juan\downloads\entregablereda3-2c\reda3-2c-entregable\reda3-2c_poo-c++\include\clase.h
+	<iostream>
+	<stdlib.h>
+
+1607739737 source:c:\users\juan\downloads\entregablereda3-2c\reda3-2c-entregable\reda3-2c_poo-c++\source\clas.cpp
+	"../include/clase.h"
+
+1607736784 c:\users\juan\downloads\entregablereda3-2c\reda3-2c-entregable\reda3-2c_poo-c++\include\excepcionporcero.h
+
+1607736918 source:c:\users\juan\downloads\entregablereda3-2c\reda3-2c-entregable\reda3-2c_poo-c++\src\excepcionporcero.cpp
+	"ExcepcionPorCero.h"
+
+1607637650 source:d:\proyectos - cursos - universidad\c\examenes\entregablereda3-2c\reda3-2c-entregable\reda3-2c_poo-c++\main.cpp
+	"include/main.h"
+
+1607544976 d:\proyectos - cursos - universidad\c\examenes\entregablereda3-2c\reda3-2c-entregable\reda3-2c_poo-c++\include\main.h
+	<iostream>
+	"clase.h"
+
+1607741402 d:\proyectos - cursos - universidad\c\examenes\entregablereda3-2c\reda3-2c-entregable\reda3-2c_poo-c++\include\clase.h
+	<iostream>
+	<stdlib.h>
+
+1607744231 source:d:\proyectos - cursos - universidad\c\examenes\entregablereda3-2c\reda3-2c-entregable\reda3-2c_poo-c++\source\clas.cpp
+	"../include/clase.h"
+

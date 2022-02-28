@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1593241595 source:c:\users\usuario\downloads\ea2 progra\ea-2\ea2-entregable\ea2-prismaentregable\main.cpp
+	"main.h"
+
+1593035810 c:\users\usuario\downloads\ea2 progra\ea-2\ea2-entregable\ea2-prismaentregable\main.h
+	<iostream>
+	"Prisma.h"
+
+1593241894 c:\users\usuario\downloads\ea2 progra\ea-2\ea2-entregable\ea2-prismaentregable\prisma.h
+	<iostream>
+	<string>
+
+1593241884 source:c:\users\usuario\downloads\ea2 progra\ea-2\ea2-entregable\ea2-prismaentregable\prisma.cpp
+	"Prisma.h"
+

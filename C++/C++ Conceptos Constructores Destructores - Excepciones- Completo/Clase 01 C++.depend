@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1448122244 source:c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\cadenas.cpp
+	"cadenas.h"
+	<iostream>
+	<string.h>
+
+1446511657 c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\cadenas.h
+	<iostream>
+
+1448122379 source:c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\complejo.cpp
+	"complejo.h"
+	<iostream>
+
+1446853007 c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\complejo.h
+	<iostream>
+
+1447983782 source:c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\empleado.cpp
+	"empleado.h"
+	<iostream>
+	<string.h>
+
+1447112436 c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\empleado.h
+	"Persona.h"
+	<iostream>
+
+1447369781 c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\persona.h
+	<iostream>
+
+1447370820 source:c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\figura.cpp
+
+1448278937 source:c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"complejo.h"
+	"cadenas.h"
+	"persona.h"
+	"empleado.h"
+	"figura.h"
+	"triangulo.h"
+	"rectangulo.h"
+
+1447374341 c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\figura.h
+	<iostream>
+
+1447375726 c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\triangulo.h
+	<iostream>
+
+1447374247 c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\rectangulo.h
+	<iostream>
+
+1447623423 source:c:\users\german\box sync\facultad\programacion\practica tps\clase 09 c++ conceptos constructores destructores\persona.cpp
+	"persona.h"
+	<iostream>
+	<string.h>
+
+1448122244 source:c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\cadenas.cpp
+	"cadenas.h"
+	<iostream>
+	<string.h>
+
+1446511657 c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\cadenas.h
+	<iostream>
+
+1448122379 source:c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\complejo.cpp
+	"complejo.h"
+	<iostream>
+
+1446853007 c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\complejo.h
+	<iostream>
+
+1447983782 source:c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\empleado.cpp
+	"empleado.h"
+	<iostream>
+	<string.h>
+
+1447112436 c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\empleado.h
+	"Persona.h"
+	<iostream>
+
+1447369781 c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\persona.h
+	<iostream>
+
+1447370820 source:c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\figura.cpp
+
+1448278937 source:c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"complejo.h"
+	"cadenas.h"
+	"persona.h"
+	"empleado.h"
+	"figura.h"
+	"triangulo.h"
+	"rectangulo.h"
+
+1447374341 c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\figura.h
+	<iostream>
+
+1447375726 c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\triangulo.h
+	<iostream>
+
+1447374247 c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\rectangulo.h
+	<iostream>
+
+1447623423 source:c:\users\german\box sync\facultad\programacion\practica tps\clases temas importantes\clase 09 c++ conceptos constructores destructores\persona.cpp
+	"persona.h"
+	<iostream>
+	<string.h>
+
+1448118644 source:e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\cadenas.cpp
+	"cadenas.h"
+	<iostream>
+	<string.h>
+
+1446508058 e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\cadenas.h
+	<iostream>
+
+1448118780 source:e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\complejo.cpp
+	"complejo.h"
+	<iostream>
+
+1446849408 e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\complejo.h
+	<iostream>
+
+1447980182 source:e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\empleado.cpp
+	"empleado.h"
+	<iostream>
+	<string.h>
+
+1447108836 e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\empleado.h
+	"Persona.h"
+	<iostream>
+
+1447366182 e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\persona.h
+	<iostream>
+
+1447367220 source:e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\figura.cpp
+
+1448275338 source:e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"complejo.h"
+	"cadenas.h"
+	"persona.h"
+	"empleado.h"
+	"figura.h"
+	"triangulo.h"
+	"rectangulo.h"
+
+1447370742 e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\figura.h
+	<iostream>
+
+1447372126 e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\triangulo.h
+	<iostream>
+
+1447370648 e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\rectangulo.h
+	<iostream>
+
+1447619824 source:e:\programacion\german\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\persona.cpp
+	"persona.h"
+	<iostream>
+	<string.h>
+
+1448122244 source:f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\cadenas.cpp
+	"cadenas.h"
+	<iostream>
+	<string.h>
+
+1446511658 f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\cadenas.h
+	<iostream>
+
+1448122380 source:f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\complejo.cpp
+	"complejo.h"
+	<iostream>
+
+1446853008 f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\complejo.h
+	<iostream>
+
+1447983782 source:f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\empleado.cpp
+	"empleado.h"
+	<iostream>
+	<string.h>
+
+1447112436 f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\empleado.h
+	"Persona.h"
+	<iostream>
+
+1447369782 f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\persona.h
+	<iostream>
+
+1447370820 source:f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\figura.cpp
+
+1448278938 source:f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"complejo.h"
+	"cadenas.h"
+	"persona.h"
+	"empleado.h"
+	"figura.h"
+	"triangulo.h"
+	"rectangulo.h"
+
+1447374342 f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\figura.h
+	<iostream>
+
+1447375726 f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\triangulo.h
+	<iostream>
+
+1447374248 f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\rectangulo.h
+	<iostream>
+
+1447623424 source:f:\karla\clase-09-c-conceptos-constructores-destructores\clase 09 c++ conceptos constructores destructores\persona.cpp
+	"persona.h"
+	<iostream>
+	<string.h>
+

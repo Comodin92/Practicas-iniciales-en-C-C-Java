@@ -1,0 +1,14 @@
+package paquete;
+import Ordenador;
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int []arreglo = {5,3,4,2};
+		Ordenador o = new Ordenador();
+		o.ordenBurbuja(arreglo);
+		for(int i=0; i <= 3;i++)
+			System.out.println(arreglo[i]);
+	}
+
+}

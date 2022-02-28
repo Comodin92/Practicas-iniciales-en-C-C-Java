@@ -1,0 +1,7 @@
+1024 | Elementos de Programacion | Marko | 1
+1025 | Dibujo Tecnico | Williner | 1
+1026 | Tecnologia Ingenieria y Sociedad | Pagani | 1
+1027 | Algebra y Geometria Analitica I | Bertua | 1
+1028 | Matematica Discreta | Tere Fernandez | 1
+1029 | Quimica General | Rodriguez | 1
+1030 | Fundamentos de Tics | Levi | 1

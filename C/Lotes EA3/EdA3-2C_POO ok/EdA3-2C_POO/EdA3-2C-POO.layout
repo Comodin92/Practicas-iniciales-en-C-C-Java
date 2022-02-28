@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1431" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="include\Cuerdas.h" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="205" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="include\Instrumento.h" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="461" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Percusion.h" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="253" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="include\CambioEscalaException.h" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="270" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="include\Vientos.h" open="1" top="1" tabpos="20" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="233" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="source\Cuerdas.cpp" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="268" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="source\Instrumento.cpp" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="363" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="source\Percusion.cpp" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="485" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="source\Vientos.cpp" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="325" topLine="18" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

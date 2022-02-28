@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600848535 source:c:\users\juan\desktop\renata cuarentena\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1602106736 source:c:\users\juan\desktop\facultad\programacion\renata cuarentena\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

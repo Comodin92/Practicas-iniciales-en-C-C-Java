@@ -1,0 +1,379 @@
+ARCHIVO: "main.c"
+
+#include "funciones.h"
+
+
+int main()
+{
+    FILE *pFBin;
+    char *pathLote = "archivo.dat";
+    crearLote(pathLote);
+    pFBin = fopen( pathLote, "r+b" );
+    if(!pFBin)
+    {
+        printf("No Abierto.\n");
+        return -1;
+    }
+
+
+    muestraArchBin(pFBin);
+
+
+    rewind(pFBin);
+
+
+    f_Bin_sort_por_pila(pFBin, sizeof(tAlu),comparaRegistros);
+
+
+    rewind(pFBin);
+
+
+    printf("\n\n");
+
+
+    muestraArchBin(pFBin);
+
+
+    fclose(pFBin);
+    return 0;
+}
+
+
+
+
+ARCHIVO: "funciones.c"
+
+
+
+#include "funciones.h"
+
+
+
+
+int f_Bin_sort_por_pila(FILE *pFBin, size_t tam, int (*compara)(void*,void*))
+{
+    tPila menor, mayor;
+    void *registro = malloc(tam), *tope = malloc(tam), *pTemp = malloc(tam);
+
+
+    if( !registro )
+        return PILA_LLENA;
+    if( !tope )
+    {
+        free(registro);
+        return PILA_LLENA;
+    }
+    if( !pTemp )
+    {
+        free(registro);
+        free(tope);
+        return PILA_LLENA;
+    }
+
+
+    crearPila(&menor, tam);
+    crearPila(&mayor, tam);
+
+
+    fread(registro, tam, 1, pFBin);
+
+
+    while( !feof(pFBin) )
+    {
+        if( pilaVacia(&menor) == PILA_VACIA )
+        {
+            push(&menor, registro);
+        }
+        /* si la pila "menor" esta vacia, pongo el registro ahi */
+        else
+        {
+            /* si el tope de la pila menor es mayor a registro, lo
+            muevo a la pila "mayor" y repito hasta que el registro deje de ser menor al tope */
+            verTope(&menor, tope);
+            if( compara(registro, tope) < 0 )
+            {
+                do
+                {
+                    pull(&menor, pTemp);
+                    push(&mayor, pTemp);
+                }
+                while( (verTope(&menor, tope) != PILA_VACIA) && (compara(registro, tope) < 0) );
+                push(&menor, registro);
+            }
+            else
+            {
+                /* si el tope de la pila "mayor" es menor que el registro, lo paso a la pila "menor", repito
+                   hasta que el registro sea menor que el tope de la pila "mayor" */
+                verTope(&mayor, tope);
+                if( (compara(registro, tope) > 0) )
+                {
+                    do
+                    {
+                        pull(&mayor, pTemp);
+                        push(&menor, pTemp);
+                    }
+                    while( (verTope(&mayor, tope) != PILA_VACIA ) && (compara(registro, tope) > 0) );
+                }
+
+
+                push(&mayor, registro);
+            }
+        }
+        //Tomo otro registro
+        fread(registro, tam, 1, pFBin);
+    }
+    /* mientras la pila "menor" no este vacia, pongo en la pila "mayor", siempre que esta ultima no este llena. */
+    while( (pull(&menor, pTemp) != PILA_VACIA) && (push(&mayor, pTemp) != PILA_LLENA));
+
+
+    rewind(pFBin);
+
+
+    /* Grabo en el archivo todos los registros que quedaron en orden inverso en la pila "mayor" */
+    while( pull(&mayor, pTemp) != PILA_VACIA )
+        fwrite(pTemp, tam, 1, pFBin);
+
+
+    return TODO_OK;
+}
+
+
+int comparaRegistros(void *r1, void *r2)
+{
+    tAlu *alu1 = (tAlu *)r1, *alu2 = (tAlu *)r2;
+    int cmp = strcmp(alu1->ape, alu2->ape);
+    if( cmp )
+        return cmp;
+    if( (cmp = strcmp(alu1->nom, alu2->nom)) )
+        return cmp;
+    return ((alu1->dni) - (alu2->dni));
+}
+
+
+
+
+void crearLote(char* path)
+{
+    tAlu alumnos[] = {{1111, "Martinez", "Jaime", 7.3},
+        {2312, "Denez", "Ricardo", 5.3},
+        {2983, "Perez", "Micaela", 8.1},
+        {7256, "Budiño", "Edmundo", 9.9},
+        {9999, "Cortez", "Hernan", 5.3},
+        {2121, "Martinez", "Jaime", 10.0},
+        {3497, "Budiño", "Hugo", 9.5},
+        {7753, "Perez", "Juan", 7.5},
+        {3332, "Martinez", "Rosmarie", 8.3},
+        {5555, "Ramirez", "Nicolas", 8.9},
+    };
+    FILE *pf;
+    pf = fopen(path, "wb");
+    if( !pf )
+        return;
+    fwrite(alumnos, sizeof(tAlu), 10, pf);
+    fclose(pf);
+}
+
+
+void muestraArchBin(FILE *pf)
+{
+    tAlu alumno;
+    fread(&alumno, sizeof(tAlu), 1, pf);
+    printf("%8s\tAPELLIDO            \tNOMBRE              \tPROMEDIO","DNI");
+    while( !feof(pf) )
+    {
+        printf("\n%8d\t%-20s\t%-20s\t%5.2f", alumno.dni, alumno.ape, alumno.nom, alumno.promedio);
+        fread(&alumno, sizeof(tAlu), 1, pf);
+    }
+}
+
+
+
+ARCHIVO: "funciones.h"
+
+#ifndef FUNCIONES_H_INCLUDED
+#define FUNCIONES_H_INCLUDED
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+
+#include "../Biblioteca/PilaGenerica/pilaGenerica.h"
+
+
+#define NO_ABIERTO -4
+
+
+typedef struct
+{
+    int dni;
+    char ape[20];
+    char nom[20];
+    float promedio;
+} tAlu;
+/** ordena ascendentemente un archivo binario, mediante 2 pilas,
+  * y una funcion adecuada para el tipo de registro que maneje el archivo
+ **/
+int f_Bin_sort_por_pila(FILE *pFBin, size_t tam, int (*compara)(void*,void*));
+/** Compara 2 alumnos por Apellido, nombre, y luego por dni
+ **/
+int comparaRegistros(void *r1, void *r2);
+
+
+void crearLote(char* path);
+
+
+void muestraArchBin(FILE *pf);
+
+
+#endif // FUNCIONES_H_INCLUDED
+
+
+
+Esta es mi implementación de pila genérica, se los pego abajo por que sino el código no va a andar. 
+
+ARCHIVO: "pilaGenerica.h"
+
+
+
+#ifndef PILAGENERICA_H_INCLUDED
+#define PILAGENERICA_H_INCLUDED
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+
+#define PILA_LLENA  -1
+#define PILA_VACIA  -2
+#define TODO_OK     1
+
+
+typedef struct sNodo
+{
+    void *dato;
+    struct sNodo *sig;
+} tNodo;
+
+
+typedef struct
+{
+    size_t tam;
+    tNodo *pN; ///primer nodo
+} tPila;
+/** La funcion crear pila inicializa, el puntero al primer nodo a NULL y
+  * el tamaño de la pila de acuerdo a el tamanyo que el usuario le pase.
+ **/
+void crearPila(tPila *pP, size_t tamanyoPila);
+int pilaLlena(tPila *pP);
+int pilaVacia(tPila *pP);
+void vaciarPila(tPila *pP);
+int push(tPila *pP, const void *dato);
+int pull(tPila *pP, void *dato);
+int verTope(tPila *pP, void *dato);
+
+
+#endif // PILAGENERICA_H_INCLUDED
+
+
+
+
+
+
+ARCHIVO: "pilaGenerica.c"
+
+
+#include "pilaGenerica.h"
+
+
+void crearPila(tPila *pP, size_t tamanyoPila)
+{
+    pP->pN = NULL;
+    pP->tam = tamanyoPila;
+}
+
+
+
+
+int pilaLlena(tPila *pP)
+{
+    tNodo *pTemp = (tNodo *)malloc(sizeof(tNodo));
+    if( !pTemp )
+    {
+        return PILA_LLENA;
+    }
+    pTemp->dato = malloc(pP->tam);
+    if( !(pTemp->dato) )
+    {
+        free(pTemp);
+        return PILA_LLENA;
+    }
+    free(pTemp->dato);
+    free(pTemp);
+    return 0;
+}
+
+
+
+
+int pilaVacia(tPila *pP)
+{
+    return ((pP->pN)?0:PILA_VACIA);
+}
+
+
+void vaciarPila(tPila *pP)
+{
+    tNodo *pTemp;
+    if( !(pP->pN) )
+        return;
+    while( !(pP->pN) )
+    {
+        pTemp = pP->pN;
+        pP->pN = pTemp->sig;
+        free(pTemp->dato);
+        free(pTemp);
+    }
+}
+
+
+int push(tPila *pP, const void *dato)
+{
+    tNodo *nue = (tNodo *)malloc(sizeof(tNodo));
+    if( !nue )
+        return PILA_LLENA;
+    nue->dato = malloc(pP->tam);
+    if( !(nue->dato) )
+    {
+        free(nue);
+        return PILA_LLENA;
+    }
+    memcpy(nue->dato, dato, pP->tam);
+    nue->sig = pP->pN;
+    pP->pN = nue;
+    return TODO_OK;
+}
+
+
+int pull(tPila *pP, void *dato)
+{
+    tNodo *pTemp = pP->pN;
+    if( !(pP->pN) )
+        return PILA_VACIA;
+    memcpy(dato, pTemp->dato, pP->tam);
+    pP->pN = pTemp->sig;
+    free(pTemp->dato);
+    free(pTemp);
+    return TODO_OK;
+}
+
+
+int verTope(tPila *pP, void *dato)
+{
+    if( !(pP->pN) )
+        return PILA_VACIA;
+    memcpy(dato, (pP->pN)->dato, pP->tam);
+    return TODO_OK;
+}

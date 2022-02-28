@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1479749962 source:c:\users\damian\desktop\ejercicios pre-2 parcial\ejercicio matriz y archivos\fseek_alumnos\alumno.c
+	"alumno.h"
+
+1479749962 c:\users\damian\desktop\ejercicios pre-2 parcial\ejercicio matriz y archivos\fseek_alumnos\alumno.h
+	<stdio.h>
+	<stdlib.h>
+
+1479751432 source:c:\users\damian\desktop\ejercicios pre-2 parcial\ejercicio matriz y archivos\fseek_alumnos\main.c
+	"alumno.h"
+
+1479753562 source:c:\users\usuario\desktop\facultad\programacion\lopez primer cuatri 2017\lopez primer cuatri 2017\primer cuatri 2017\archivos\fseek_alumnos\alumno.c
+	"alumno.h"
+
+1479753562 c:\users\usuario\desktop\facultad\programacion\lopez primer cuatri 2017\lopez primer cuatri 2017\primer cuatri 2017\archivos\fseek_alumnos\alumno.h
+	<stdio.h>
+	<stdlib.h>
+
+1479755032 source:c:\users\usuario\desktop\facultad\programacion\lopez primer cuatri 2017\lopez primer cuatri 2017\primer cuatri 2017\archivos\fseek_alumnos\main.c
+	"alumno.h"
+

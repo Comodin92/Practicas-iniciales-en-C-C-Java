@@ -1,0 +1,373 @@
+# depslib dependency file v1.0
+1448824749 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\cola.c
+	"cola.h"
+
+1448823924 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\cola.h
+	"funciones.h"
+
+1448922367 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"fechas.h"
+
+1448483019 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\funciones.c
+	"funciones.h"
+
+1447796111 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\lista.c
+	"lista.h"
+
+1447796900 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\lista.h
+	"funciones.h"
+
+1449172000 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"cola.h"
+	"lista.h"
+	"funciones.h"
+	"lista_d.h"
+	"fechas.h"
+	"funcionesvarias.h"
+	"matematicas.h"
+	"matrices.h"
+	"vectores.h"
+	"cadenas.h"
+	"arbol.h"
+	"archivos.h"
+
+1448821849 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\pila.h
+	"funciones.h"
+
+1448821871 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\pila.c
+	"pila.h"
+
+1448920137 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\arbol.c
+	"arbol.h"
+
+1448480291 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\arbol.h
+	"funciones.h"
+
+1448319899 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\lista_d.c
+	"lista_d.h"
+
+1448319899 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\lista_d.h
+	"funciones.h"
+
+1447378640 source:c:\users\laboratorios.unlmlab\desktop\modelo de parcial\arbol.c
+	"arbol.h"
+
+1447378622 c:\users\laboratorios.unlmlab\desktop\modelo de parcial\arbol.h
+	"funciones.h"
+
+1447183958 c:\users\laboratorios.unlmlab\desktop\modelo de parcial\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"fechas.h"
+
+1447183943 c:\users\laboratorios.unlmlab\desktop\modelo de parcial\fechas.h
+
+1446071119 source:c:\users\laboratorios.unlmlab\desktop\modelo de parcial\cola.c
+	"cola.h"
+
+1446071119 c:\users\laboratorios.unlmlab\desktop\modelo de parcial\cola.h
+	"funciones.h"
+
+1447184200 source:c:\users\laboratorios.unlmlab\desktop\modelo de parcial\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"fechas.h"
+
+1446069797 source:c:\users\laboratorios.unlmlab\desktop\modelo de parcial\funciones.c
+	"funciones.h"
+
+1368928700 source:c:\users\laboratorios.unlmlab\desktop\modelo de parcial\funcionesvarias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesvarias.h"
+
+1368928736 c:\users\laboratorios.unlmlab\desktop\modelo de parcial\funcionesvarias.h
+
+1446765206 source:c:\users\laboratorios.unlmlab\desktop\modelo de parcial\lista.c
+	"lista.h"
+
+1447184267 c:\users\laboratorios.unlmlab\desktop\modelo de parcial\lista.h
+	"funciones.h"
+
+1446765572 source:c:\users\laboratorios.unlmlab\desktop\modelo de parcial\lista_d.c
+	"lista_d.h"
+
+1446765760 c:\users\laboratorios.unlmlab\desktop\modelo de parcial\lista_d.h
+	"funciones.h"
+
+1447716164 source:c:\users\german\desktop\modelo de parcial\modelo de parcial\arbol.c
+	"arbol.h"
+
+1447716164 c:\users\german\desktop\modelo de parcial\modelo de parcial\arbol.h
+	"funciones.h"
+
+1447183958 c:\users\german\desktop\modelo de parcial\modelo de parcial\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"fechas.h"
+
+1447183943 c:\users\german\desktop\modelo de parcial\modelo de parcial\fechas.h
+
+1446071119 source:c:\users\german\desktop\modelo de parcial\modelo de parcial\cola.c
+	"cola.h"
+
+1446071119 c:\users\german\desktop\modelo de parcial\modelo de parcial\cola.h
+	"funciones.h"
+
+1447184200 source:c:\users\german\desktop\modelo de parcial\modelo de parcial\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"fechas.h"
+
+1446069797 source:c:\users\german\desktop\modelo de parcial\modelo de parcial\funciones.c
+	"funciones.h"
+
+1368928700 source:c:\users\german\desktop\modelo de parcial\modelo de parcial\funcionesvarias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesvarias.h"
+
+1368928736 c:\users\german\desktop\modelo de parcial\modelo de parcial\funcionesvarias.h
+
+1447710116 source:c:\users\german\desktop\modelo de parcial\modelo de parcial\lista.c
+	"lista.h"
+
+1447710072 c:\users\german\desktop\modelo de parcial\modelo de parcial\lista.h
+	"funciones.h"
+
+1446765572 source:c:\users\german\desktop\modelo de parcial\modelo de parcial\lista_d.c
+	"lista_d.h"
+
+1446765760 c:\users\german\desktop\modelo de parcial\modelo de parcial\lista_d.h
+	"funciones.h"
+
+1447716956 source:c:\users\german\desktop\modelo de parcial\modelo de parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"cola.h"
+	"lista.h"
+	"funciones.h"
+	"lista_d.h"
+	"fechas.h"
+	"funcionesvarias.h"
+	"matematicas.h"
+	"matrices.h"
+	"vectores.h"
+
+1446765533 c:\users\german\desktop\modelo de parcial\modelo de parcial\pila.h
+	"funciones.h"
+
+1346635736 c:\users\german\desktop\modelo de parcial\modelo de parcial\matematicas.h
+
+1347683594 c:\users\german\desktop\modelo de parcial\modelo de parcial\matrices.h
+
+1447184267 c:\users\german\desktop\modelo de parcial\modelo de parcial\vectores.h
+
+1368928700 source:c:\users\german\desktop\modelo de parcial\modelo de parcial\matematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"matematicas.h"
+
+1368928700 source:c:\users\german\desktop\modelo de parcial\modelo de parcial\matrices.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1446765533 source:c:\users\german\desktop\modelo de parcial\modelo de parcial\pila.c
+	"pila.h"
+
+1447184267 source:c:\users\german\desktop\modelo de parcial\modelo de parcial\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1448815212 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\fechas.h
+
+1448815241 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"fechas.h"
+
+1448815500 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\funcionesvarias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesvarias.h"
+
+1449171090 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\funcionesvarias.h
+	"cadenas.h"
+
+1448992037 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\matematicas.h
+
+1449169043 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\matrices.h
+
+1448815623 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\vectores.h
+
+1368928700 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\matematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"matematicas.h"
+
+1449169078 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\matrices.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1448815623 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+
+1449102915 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\cadenas.c
+	"cadenas.h"
+	<stdio.h>
+
+1449171090 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\cadenas.h
+
+1448325285 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\pila_c.c
+	"pila_c.h"
+
+1448321007 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\pila_c.h
+	"funciones.h"
+
+1449099846 source:c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\archivos.c
+	<string.h>
+	"archivos.h"
+	"fechas.h"
+	"cadenas.h"
+
+1449075001 c:\users\german\box sync\facultad\programacion\practica tps\modelo de parcial\archivos.h
+	<stdio.h>
+	"funciones.h"
+
+1448920138 source:f:\karla\modelo-de-parcial-v26\arbol.c
+	"arbol.h"
+
+1448480292 f:\karla\modelo-de-parcial-v26\arbol.h
+	"funciones.h"
+
+1448922368 f:\karla\modelo-de-parcial-v26\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"fechas.h"
+
+1448815212 f:\karla\modelo-de-parcial-v26\fechas.h
+
+1449099846 source:f:\karla\modelo-de-parcial-v26\archivos.c
+	<string.h>
+	"archivos.h"
+	"fechas.h"
+	"cadenas.h"
+
+1449075002 f:\karla\modelo-de-parcial-v26\archivos.h
+	<stdio.h>
+	"funciones.h"
+
+1449171090 f:\karla\modelo-de-parcial-v26\cadenas.h
+
+1449171688 source:f:\karla\modelo-de-parcial-v26\cadenas.c
+	"cadenas.h"
+	<stdio.h>
+
+1448824750 source:f:\karla\modelo-de-parcial-v26\cola.c
+	"cola.h"
+
+1448823924 f:\karla\modelo-de-parcial-v26\cola.h
+	"funciones.h"
+
+1448815242 source:f:\karla\modelo-de-parcial-v26\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"fechas.h"
+
+1448483020 source:f:\karla\modelo-de-parcial-v26\funciones.c
+	"funciones.h"
+
+1448815500 source:f:\karla\modelo-de-parcial-v26\funcionesvarias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesvarias.h"
+
+1449171090 f:\karla\modelo-de-parcial-v26\funcionesvarias.h
+	"cadenas.h"
+
+1447796112 source:f:\karla\modelo-de-parcial-v26\lista.c
+	"lista.h"
+
+1447796900 f:\karla\modelo-de-parcial-v26\lista.h
+	"funciones.h"
+
+1498225666 source:f:\karla\modelo-de-parcial-v26\lista_d.c
+	"lista_d.h"
+
+1448319900 f:\karla\modelo-de-parcial-v26\lista_d.h
+	"funciones.h"
+
+1450322270 source:f:\karla\modelo-de-parcial-v26\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"cola.h"
+	"lista.h"
+	"funciones.h"
+	"lista_d.h"
+	"fechas.h"
+	"funcionesvarias.h"
+	"matematicas.h"
+	"matrices.h"
+	"vectores.h"
+	"cadenas.h"
+	"arbol.h"
+	"archivos.h"
+
+1448821850 f:\karla\modelo-de-parcial-v26\pila.h
+	"funciones.h"
+
+1448992038 f:\karla\modelo-de-parcial-v26\matematicas.h
+
+1449169044 f:\karla\modelo-de-parcial-v26\matrices.h
+
+1448815624 f:\karla\modelo-de-parcial-v26\vectores.h
+
+1368928700 source:f:\karla\modelo-de-parcial-v26\matematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"matematicas.h"
+
+1449169078 source:f:\karla\modelo-de-parcial-v26\matrices.c
+	<stdio.h>
+	<stdlib.h>
+	"matrices.h"
+
+1448821872 source:f:\karla\modelo-de-parcial-v26\pila.c
+	"pila.h"
+
+1448815624 source:f:\karla\modelo-de-parcial-v26\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+

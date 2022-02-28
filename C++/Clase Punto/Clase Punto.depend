@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1446734486 source:c:\users\elías\desktop\programación\tp5 c++\clase punto\main.cpp
+	"Punto.h"
+
+1446734998 c:\users\elías\desktop\programación\tp5 c++\clase punto\punto.h
+	<iostream>
+
+1446734748 source:c:\users\elías\desktop\programación\tp5 c++\clase punto\punto.cpp
+	"Punto.h"
+
+1446734748 source:f:\programación\tp5 c++\clase punto\punto.cpp
+	"Punto.h"
+
+1446734988 f:\programación\tp5 c++\clase punto\punto.h
+	<iostream>
+
+1446734486 source:f:\programación\tp5 c++\clase punto\main.cpp
+	"Punto.h"
+
+1627142007 source:f:\nueva carpeta\programacion\si\c++\clase punto\main.cpp
+	"Punto.h"
+
+1459346960 f:\nueva carpeta\programacion\si\c++\clase punto\punto.h
+	<iostream>
+
+1459346960 source:f:\nueva carpeta\programacion\si\c++\clase punto\punto.cpp
+	"Punto.h"
+

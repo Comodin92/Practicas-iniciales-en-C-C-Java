@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600357909 source:c:\users\juan\desktop\renata cuarentena\macro\ejerciciomacro.c
+
+1600362097 source:c:\users\juan\desktop\renata cuarentena\macro\main.c
+	<stdio.h>
+	<stdlib.h>
+

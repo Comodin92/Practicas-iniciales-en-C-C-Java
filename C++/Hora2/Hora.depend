@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1466781542 source:c:\users\nicolas\desktop\hora\hora.cpp
+	"Hora.h"
+
+1466781542 c:\users\nicolas\desktop\hora\hora.h
+	<iostream>
+
+1466781569 source:c:\users\nicolas\desktop\hora\main.cpp
+	<iostream>
+	"Hora.h"
+
+1466767460 source:f:\nueva carpeta\programacion\si\c++\hora\hora.cpp
+	"Hora.h"
+
+1466767460 f:\nueva carpeta\programacion\si\c++\hora\hora.h
+	<iostream>
+
+1466767460 source:f:\nueva carpeta\programacion\si\c++\hora\main.cpp
+	<iostream>
+	"Hora.h"
+

@@ -1,0 +1,17 @@
+package paquete;
+import java.util.LinkedList;
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		LinkedList lista = new LinkedList();
+		
+		lista.add("Damian");
+		lista.add(76);
+		///Se puede indicar en que posicion insertarlo lista.add(1,40); index, dato
+		System.out.println(lista.size());
+		///Usamos get para obtener un dato en especifico
+		System.out.println(lista.get(0));
+	}
+
+}

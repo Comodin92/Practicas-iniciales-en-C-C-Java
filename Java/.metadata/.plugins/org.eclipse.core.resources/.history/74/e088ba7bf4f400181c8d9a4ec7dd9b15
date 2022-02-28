@@ -1,0 +1,15 @@
+package paquete;
+import java.util.LinkedList;
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		LinkedList lista = new LinkedList();
+		
+		lista.add("Damian");
+		lista.addAll(76);
+		System.out.println(lista.size());
+		
+	}
+
+}

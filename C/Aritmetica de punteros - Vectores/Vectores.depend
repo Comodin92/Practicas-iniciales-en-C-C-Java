@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1503528336 source:c:\users\hogar\desktop\programacion-pezzola\bibiotlecas\vectores.c
+	"../Bibiotlecas/vectores.h"
+
+1503527648 c:\users\hogar\desktop\programacion-pezzola\bibiotlecas\vectores.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1504039118 source:c:\users\hogar\desktop\programacion-pezzola\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Bibiotlecas/vectores.h"
+
+1503528336 source:c:\users\usuario\desktop\programacion\programacion\programacion ordenado\programacion-pezzola-2017\bibiotlecas\vectores.c
+	"../Bibiotlecas/vectores.h"
+
+1503527648 c:\users\usuario\desktop\programacion\programacion\programacion ordenado\programacion-pezzola-2017\bibiotlecas\vectores.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1504039118 source:c:\users\usuario\desktop\programacion\programacion\programacion ordenado\programacion-pezzola-2017\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Bibiotlecas/vectores.h"
+

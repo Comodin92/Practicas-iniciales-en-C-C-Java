@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1353366926 source:d:\coding\c\entrega\unidad 5\ej9\main.cpp
+	<iostream>
+	"Persona.h"
+
+1353367954 source:d:\coding\c\entrega\unidad 5\ej9\persona.cpp
+	"Persona.h"
+	"Varias.h"
+
+1353367811 d:\coding\c\entrega\unidad 5\ej9\persona.h
+	"Fecha.h"
+	"Varias.h"
+	<string.h>
+	<iostream>
+
+1353363871 d:\coding\c\entrega\unidad 5\ej9\fecha.h
+	<iostream>
+
+1353367964 d:\coding\c\entrega\unidad 5\ej9\varias.h
+	<string.h>
+
+1353363870 source:d:\coding\c\entrega\unidad 5\ej9\fecha.cpp
+	"Fecha.h"
+
+1353371554 source:c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\unidad 5\ej9\persona.cpp
+	"Persona.h"
+	"Varias.h"
+
+1353371411 c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\unidad 5\ej9\persona.h
+	"Fecha.h"
+	"Varias.h"
+	<string.h>
+	<iostream>
+
+1353367471 c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\unidad 5\ej9\fecha.h
+	<iostream>
+
+1353371564 c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\unidad 5\ej9\varias.h
+	<string.h>
+
+1353371622 source:c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\unidad 5\ej9\varias.cpp
+	"Varias.h"
+
+1353370526 source:c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\unidad 5\ej9\main.cpp
+	<iostream>
+	"Persona.h"
+
+1353367470 source:c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\unidad 5\ej9\fecha.cpp
+	"Fecha.h"
+

@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1607525897 source:c:\users\usuario\desktop\aileen\2020 uni\2do cuatri progra\eda3-2c-entregable\eda3-2c_poo\source\cuerdas.cpp
+	"../include/Cuerdas.h"
+
+1607526014 c:\users\usuario\desktop\aileen\2020 uni\2do cuatri progra\eda3-2c-entregable\eda3-2c_poo\include\cuerdas.h
+	"Instrumento.h"
+
+1607526182 c:\users\usuario\desktop\aileen\2020 uni\2do cuatri progra\eda3-2c-entregable\eda3-2c_poo\include\instrumento.h
+	<iostream>
+	<string>
+
+1607525511 source:c:\users\usuario\desktop\aileen\2020 uni\2do cuatri progra\eda3-2c-entregable\eda3-2c_poo\source\instrumento.cpp
+	"../include/Instrumento.h"
+	"../include/CambioEscalaException.h"
+
+1607526309 source:c:\users\usuario\desktop\aileen\2020 uni\2do cuatri progra\eda3-2c-entregable\eda3-2c_poo\source\percusion.cpp
+	<string.h>
+	"../include/Percusion.h"
+	"../include/CambioEscalaException.h"
+
+1607526252 c:\users\usuario\desktop\aileen\2020 uni\2do cuatri progra\eda3-2c-entregable\eda3-2c_poo\include\percusion.h
+	"Instrumento.h"
+
+1607526291 c:\users\usuario\desktop\aileen\2020 uni\2do cuatri progra\eda3-2c-entregable\eda3-2c_poo\include\cambioescalaexception.h
+	<iostream>
+
+1607400668 source:c:\users\usuario\desktop\aileen\2020 uni\2do cuatri progra\eda3-2c-entregable\eda3-2c_poo\main.cpp
+	<iostream>
+	"include/CambioEscalaException.h"
+	"include/Cuerdas.h"
+	"include/Vientos.h"
+	"include/Percusion.h"
+	"include/Instrumento.h"
+
+1607526242 c:\users\usuario\desktop\aileen\2020 uni\2do cuatri progra\eda3-2c-entregable\eda3-2c_poo\include\vientos.h
+	"Instrumento.h"
+
+1607525971 source:c:\users\usuario\desktop\aileen\2020 uni\2do cuatri progra\eda3-2c-entregable\eda3-2c_poo\source\vientos.cpp
+	"../include/Vientos.h"
+
+1607512000 source:c:\users\juan\desktop\i\nueva carpeta\eda3-2c_poo\eda3-2c_poo\main.cpp
+	<iostream>
+	"include/CambioEscalaException.h"
+	"include/Cuerdas.h"
+	"include/Vientos.h"
+	"include/Percusion.h"
+	"include/Instrumento.h"
+
+1607622752 c:\users\juan\desktop\i\nueva carpeta\eda3-2c_poo\eda3-2c_poo\include\cambioescalaexception.h
+	<iostream>
+
+1607511614 c:\users\juan\desktop\i\nueva carpeta\eda3-2c_poo\eda3-2c_poo\include\cuerdas.h
+	"Instrumento.h"
+
+1607511782 c:\users\juan\desktop\i\nueva carpeta\eda3-2c_poo\eda3-2c_poo\include\instrumento.h
+	<iostream>
+	<string>
+
+1607511842 c:\users\juan\desktop\i\nueva carpeta\eda3-2c_poo\eda3-2c_poo\include\vientos.h
+	"Instrumento.h"
+
+1607511852 c:\users\juan\desktop\i\nueva carpeta\eda3-2c_poo\eda3-2c_poo\include\percusion.h
+	"Instrumento.h"
+
+1607511497 source:c:\users\juan\desktop\i\nueva carpeta\eda3-2c_poo\eda3-2c_poo\source\cuerdas.cpp
+	"../include/Cuerdas.h"
+
+1607511111 source:c:\users\juan\desktop\i\nueva carpeta\eda3-2c_poo\eda3-2c_poo\source\instrumento.cpp
+	"../include/Instrumento.h"
+	"../include/CambioEscalaException.h"
+
+1607511909 source:c:\users\juan\desktop\i\nueva carpeta\eda3-2c_poo\eda3-2c_poo\source\percusion.cpp
+	<string.h>
+	"../include/Percusion.h"
+	"../include/CambioEscalaException.h"
+
+1607511571 source:c:\users\juan\desktop\i\nueva carpeta\eda3-2c_poo\eda3-2c_poo\source\vientos.cpp
+	"../include/Vientos.h"
+
+1607512000 source:c:\users\juan\desktop\i\eda3\eda3-2c_poo ok\eda3-2c_poo\main.cpp
+	<iostream>
+	"include/CambioEscalaException.h"
+	"include/Cuerdas.h"
+	"include/Vientos.h"
+	"include/Percusion.h"
+	"include/Instrumento.h"
+
+1607622752 c:\users\juan\desktop\i\eda3\eda3-2c_poo ok\eda3-2c_poo\include\cambioescalaexception.h
+	<iostream>
+
+1607511614 c:\users\juan\desktop\i\eda3\eda3-2c_poo ok\eda3-2c_poo\include\cuerdas.h
+	"Instrumento.h"
+
+1607511782 c:\users\juan\desktop\i\eda3\eda3-2c_poo ok\eda3-2c_poo\include\instrumento.h
+	<iostream>
+	<string>
+
+1607511842 c:\users\juan\desktop\i\eda3\eda3-2c_poo ok\eda3-2c_poo\include\vientos.h
+	"Instrumento.h"
+
+1607511852 c:\users\juan\desktop\i\eda3\eda3-2c_poo ok\eda3-2c_poo\include\percusion.h
+	"Instrumento.h"
+
+1607511497 source:c:\users\juan\desktop\i\eda3\eda3-2c_poo ok\eda3-2c_poo\source\cuerdas.cpp
+	"../include/Cuerdas.h"
+
+1607511111 source:c:\users\juan\desktop\i\eda3\eda3-2c_poo ok\eda3-2c_poo\source\instrumento.cpp
+	"../include/Instrumento.h"
+	"../include/CambioEscalaException.h"
+
+1607511909 source:c:\users\juan\desktop\i\eda3\eda3-2c_poo ok\eda3-2c_poo\source\percusion.cpp
+	<string.h>
+	"../include/Percusion.h"
+	"../include/CambioEscalaException.h"
+
+1607511571 source:c:\users\juan\desktop\i\eda3\eda3-2c_poo ok\eda3-2c_poo\source\vientos.cpp
+	"../include/Vientos.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1504550473 source:c:\users\hogar\desktop\programacion-pezzola\bibiotlecas\libreriasstring.c
+	"../Bibiotlecas/libreriasString.h"
+
+1504550473 c:\users\hogar\desktop\programacion-pezzola\bibiotlecas\libreriasstring.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1505574671 source:c:\users\hogar\desktop\programacion-pezzola\librerias string.h\main.c
+	"../Bibiotlecas/libreriasString.h"
+
+1504550473 source:c:\users\usuario\desktop\programacion\programacion\programacion ordenado\programacion-pezzola-2017\bibiotlecas\libreriasstring.c
+	"../Bibiotlecas/libreriasString.h"
+
+1504550473 c:\users\usuario\desktop\programacion\programacion\programacion ordenado\programacion-pezzola-2017\bibiotlecas\libreriasstring.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1505574671 source:c:\users\usuario\desktop\programacion\programacion\programacion ordenado\programacion-pezzola-2017\librerias string.h\main.c
+	"../Bibiotlecas/libreriasString.h"
+

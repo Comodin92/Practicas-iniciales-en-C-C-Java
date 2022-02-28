@@ -1,0 +1,156 @@
+******************************************** 
+*    PUNTO 1 a.-: comienza a ejecutarse.   * 
+******************************************** 
+*** Mostrando el archivo ".\datos\ped_A.txt" ***
+      Tipo_A - 2020-11-09 – Nodo K
+ CLIE.  PROD.   CANT      P. U.   
+======= ===== ======== ===========
+EL UNO  KX01       125        0.25
+EL UNO  JP104        1     1199.50
+EL UNO  PRB         29        1.99
+EL UNO  ST001        7        2.21
+ALMA    ST001       91        2.21
+ALMA    KX01      1523        0.25
+LA CAVA ST001       75        2.21
+LA CAVA PRB        205        1.99
+LA CAVA KX01       125        0.25
+--- Se mostraron 12 líneas de texto.
+
+*** Mostrando el archivo ".\datos\ped_A.bin" ***
+EL UNO  KX01     125    0.25
+EL UNO  JP104      1 1199.50
+EL UNO  PRB       29    1.99
+EL UNO  ST001      7    2.21
+ALMA    ST001     91    2.21
+ALMA    KX01    1523    0.25
+LA CAVA ST001     75    2.21
+LA CAVA PRB      205    1.99
+LA CAVA KX01     125    0.25
+--- Se mostraron  9 registros.
+
+*** Mostrando el archivo ".\datos\ped_B.txt" ***
+     2020-11-09 – Nodo C - Tipo_D
+ PRODUCTO CANTI. COD CLI   VALOR 
+========= ====== ======= ========
+PRB           92 EL UNO      1.99
+KX01        3228 EL UNO      0.25
+JP104          5 PIRULOS  1300.00
+PRB          500 LA CAVA     1.99
+ST001        700 LA CAVA     2.21
+JP104          2 EL UNO   1204.50
+KX01         290 EL UNO      0.25
+KX01         288 ALMA        0.25
+PRB          300 ALMA        1.60
+--- Se mostraron 12 líneas de texto.
+
+*** Mostrando el archivo ".\datos\ped_B.bin" ***
+EL UNO  PRB       92    1.99
+EL UNO  KX01    3228    0.25
+PIRULOS JP104      5 1300.00
+LA CAVA PRB      500    1.99
+LA CAVA ST001    700    2.21
+EL UNO  JP104      2 1204.50
+EL UNO  KX01     290    0.25
+ALMA    KX01     288    0.25
+ALMA    PRB      300    1.60
+--- Se mostraron  9 registros.
+
+******************************************** 
+*         Fin ejecución PUNTO 1 a.-        * 
+******************************************** 
+
+******************************************** 
+*    PUNTO 1 b.-: comienza a ejecutarse.   * 
+******************************************** 
+*** Mostrando el archivo ".\datos\ped_A.bin" ***
+EL UNO  KX01     125    0.25
+EL UNO  JP104      1 1199.50
+EL UNO  PRB       29    1.99
+EL UNO  ST001      7    2.21
+ALMA    ST001     91    2.21
+ALMA    KX01    1523    0.25
+LA CAVA ST001     75    2.21
+LA CAVA PRB      205    1.99
+LA CAVA KX01     125    0.25
+--- Se mostraron  9 registros.
+
+*** Mostrando el archivo ".\datos\ped_B.bin" ***
+EL UNO  PRB       92    1.99
+EL UNO  KX01    3228    0.25
+PIRULOS JP104      5 1300.00
+LA CAVA PRB      500    1.99
+LA CAVA ST001    700    2.21
+EL UNO  JP104      2 1204.50
+EL UNO  KX01     290    0.25
+ALMA    KX01     288    0.25
+ALMA    PRB      300    1.60
+--- Se mostraron  9 registros.
+
+*** Mostrando el archivo ".\datos\ped_agrup.bin" ***
+EL UNO  KX01     125    0.25
+EL UNO  JP104      1 1199.50
+EL UNO  PRB       29    1.99
+EL UNO  ST001      7    2.21
+ALMA    ST001     91    2.21
+ALMA    KX01    1523    0.25
+LA CAVA ST001     75    2.21
+LA CAVA PRB      205    1.99
+LA CAVA KX01     125    0.25
+EL UNO  PRB       92    1.99
+EL UNO  KX01    3228    0.25
+PIRULOS JP104      5 1300.00
+LA CAVA PRB      500    1.99
+LA CAVA ST001    700    2.21
+EL UNO  JP104      2 1204.50
+EL UNO  KX01     290    0.25
+ALMA    KX01     288    0.25
+ALMA    PRB      300    1.60
+--- Se mostraron 18 registros.
+
+******************************************** 
+*         Fin ejecución PUNTO 1 b.-        * 
+******************************************** 
+
+******************************************** 
+*    PUNTO 1 c.-: comienza a ejecutarse.   * 
+******************************************** 
+*** Mostrando el archivo ".\datos\ped_agrup.bin" ***
+EL UNO  KX01     125    0.25
+EL UNO  JP104      1 1199.50
+EL UNO  PRB       29    1.99
+EL UNO  ST001      7    2.21
+ALMA    ST001     91    2.21
+ALMA    KX01    1523    0.25
+LA CAVA ST001     75    2.21
+LA CAVA PRB      205    1.99
+LA CAVA KX01     125    0.25
+EL UNO  PRB       92    1.99
+EL UNO  KX01    3228    0.25
+PIRULOS JP104      5 1300.00
+LA CAVA PRB      500    1.99
+LA CAVA ST001    700    2.21
+EL UNO  JP104      2 1204.50
+EL UNO  KX01     290    0.25
+ALMA    KX01     288    0.25
+ALMA    PRB      300    1.60
+--- Se mostraron 18 registros.
+
+*** Mostrando el archivo ".\datos\ped_resum.bin" ***
+ALMA    KX01    1811    0.25   1
+ALMA    PRB      300    1.60   2
+ALMA    ST001     91    2.21   3
+EL UNO  JP104      2 1204.50   4
+EL UNO  JP104      1 1199.50   5
+EL UNO  KX01    3643    0.25   6
+EL UNO  PRB      121    1.99   7
+EL UNO  ST001      7    2.21   8
+LA CAVA KX01     125    0.25   9
+LA CAVA PRB      705    1.99  10
+LA CAVA ST001    775    2.21  11
+PIRULOS JP104      5 1300.00  12
+--- Se mostraron 12 registros.
+
+******************************************** 
+*         Fin ejecución PUNTO 1 c.-        * 
+******************************************** 
+

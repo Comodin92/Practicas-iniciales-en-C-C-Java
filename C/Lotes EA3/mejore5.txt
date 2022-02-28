@@ -1,0 +1,878 @@
+******************************************** 
+*    Punto 1 a.-: comienza a ejecutarse.   * 
+******************************************** 
+Poniendo ...  LULI180  4
+- La función devolvió 1.
+ clave calif
+LULI180  4
+- Hay 1 nodos.
+Poniendo ...  LELO169  4
+- La función devolvió 1.
+ clave calif
+LELO169  4
+LULI180  4
+- Hay 2 nodos.
+Poniendo ...  LALO111  4
+- La función devolvió 1.
+ clave calif
+LALO111  4
+LELO169  4
+LULI180  4
+- Hay 3 nodos.
+Poniendo ...  MARU044  4
+- La función devolvió 1.
+ clave calif
+LALO111  4
+LELO169  4
+LULI180  4
+MARU044  4
+- Hay 4 nodos.
+Poniendo ...  LOLO166  4
+- La función devolvió 1.
+ clave calif
+LALO111  4
+LELO169  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 5 nodos.
+Poniendo ...  JUAN314  2
+- La función devolvió 1.
+ clave calif
+LALO111  4
+LELO169  4
+LOLO166  4
+LULI180  4
+MARU044  4
+JUAN314  2
+- Hay 6 nodos.
+Poniendo ...  JUAN628  3
+- La función devolvió -1.
+ clave calif
+LALO111  4
+LELO169  4
+LOLO166  4
+LULI180  4
+MARU044  4
+JUAN628  3
+- Hay 6 nodos.
+Poniendo ...  LALO094  4
+- La función devolvió -1.
+ clave calif
+LALO094  4
+LALO111  4
+LELO169  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 6 nodos.
+Poniendo ...  LELO184  4
+- La función devolvió 1.
+ clave calif
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 7 nodos.
+Poniendo ...  MARU007  2
+- La función devolvió 4.
+ clave calif
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 7 nodos.
+Poniendo ...  PEPE012  3
+- La función devolvió 4.
+ clave calif
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 7 nodos.
+Poniendo ...  LULI123  1
+- La función devolvió 4.
+ clave calif
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 7 nodos.
+Poniendo ...  RUCU046  6
+- La función devolvió 1.
+ clave calif
+RUCU046  6
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 8 nodos.
+Poniendo ...  MARU092  4
+- La función devolvió 1.
+ clave calif
+RUCU046  6
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+MARU092  4
+- Hay 9 nodos.
+Poniendo ...  MORO128  5
+- La función devolvió 1.
+ clave calif
+RUCU046  6
+MORO128  5
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+MARU092  4
+- Hay 10 nodos.
+Poniendo ...  LELO052  5
+- La función devolvió 1.
+ clave calif
+RUCU046  6
+LELO052  5
+MORO128  5
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+MARU092  4
+- Hay 11 nodos.
+Poniendo ...  LELO115  6
+- La función devolvió 1.
+ clave calif
+LELO115  6
+RUCU046  6
+LELO052  5
+MORO128  5
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+MARU092  4
+- Hay 12 nodos.
+Poniendo ...  PEPE109  8
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+LELO115  6
+RUCU046  6
+LELO052  5
+MORO128  5
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+MARU092  4
+- Hay 13 nodos.
+Poniendo ...  PIPO002  7
+- La función devolvió -8.
+ clave calif
+PEPE109  8
+PIPO002  7
+LELO115  6
+RUCU046  6
+LELO052  5
+MORO128  5
+- Hay 6 nodos.
+Poniendo ...  RUCU195  8
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+PIPO002  7
+LELO115  6
+RUCU046  6
+LELO052  5
+MORO128  5
+- Hay 7 nodos.
+Poniendo ...  LOLO144  7
+- La función devolvió -2.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+PIPO002  7
+LELO115  6
+RUCU046  6
+- Hay 6 nodos.
+Poniendo ...  LULI168  7
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+LELO115  6
+RUCU046  6
+- Hay 7 nodos.
+Poniendo ...  PEPE036  6
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+LELO115  6
+PEPE036  6
+RUCU046  6
+- Hay 8 nodos.
+Poniendo ...  PEPE080  5
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+LELO115  6
+PEPE036  6
+RUCU046  6
+- Hay 8 nodos.
+Poniendo ...  LALO086  4
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+LELO115  6
+PEPE036  6
+RUCU046  6
+- Hay 8 nodos.
+Poniendo ...  LELO105  3
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+LELO115  6
+PEPE036  6
+RUCU046  6
+- Hay 8 nodos.
+Poniendo ...  MARU125  2
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+LELO115  6
+PEPE036  6
+RUCU046  6
+- Hay 8 nodos.
+Poniendo ...  PIPO052  1
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+LELO115  6
+PEPE036  6
+RUCU046  6
+- Hay 8 nodos.
+Poniendo ...  LELO047  0
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+LELO115  6
+PEPE036  6
+RUCU046  6
+- Hay 8 nodos.
+Poniendo ...  LULI141  6
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+LELO115  6
+LULI141  6
+PEPE036  6
+RUCU046  6
+- Hay 9 nodos.
+Poniendo ...  RUCU022  6
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+LELO115  6
+LULI141  6
+PEPE036  6
+RUCU022  6
+RUCU046  6
+- Hay 10 nodos.
+Poniendo ...  LALO174  7
+- La función devolvió -5.
+ clave calif
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 6 nodos.
+Poniendo ...  LOLO126  7
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 7 nodos.
+Poniendo ...  MORO153  7
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+MORO153  7
+PIPO002  7
+- Hay 8 nodos.
+Poniendo ...  MORO165  7
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+MORO153  7
+MORO165  7
+PIPO002  7
+- Hay 9 nodos.
+Poniendo ...  PIPO138  7
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+MORO153  7
+MORO165  7
+PIPO002  7
+PIPO138  7
+- Hay 10 nodos.
+Poniendo ...  LULI099  8
+- La función devolvió 1.
+ clave calif
+LULI099  8
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+MORO153  7
+MORO165  7
+PIPO002  7
+PIPO138  7
+- Hay 11 nodos.
+Poniendo ...  MARU106  8
+- La función devolvió 1.
+ clave calif
+LULI099  8
+MARU106  8
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+MORO153  7
+MORO165  7
+PIPO002  7
+PIPO138  7
+- Hay 12 nodos.
+Poniendo ...  MARU126  9
+- La función devolvió 1.
+ clave calif
+MARU126  9
+LULI099  8
+MARU106  8
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+MORO153  7
+MORO165  7
+PIPO002  7
+PIPO138  7
+- Hay 13 nodos.
+Se eliminaron 13 nodos de la lista.
+******************************************** 
+*         Fin ejecución Punto 1 a.-        * 
+******************************************** 
+
+******************************************** 
+*    Punto 1 b.-: comienza a ejecutarse.   * 
+******************************************** 
+Poniendo ...  LULI180  4
+- La función devolvió 1.
+ clave calif
+LULI180  4
+- Hay 1 nodos.
+Poniendo ...  LELO169  4
+- La función devolvió 1.
+ clave calif
+LELO169  4
+LULI180  4
+- Hay 2 nodos.
+Poniendo ...  LALO111  4
+- La función devolvió 1.
+ clave calif
+LALO111  4
+LELO169  4
+LULI180  4
+- Hay 3 nodos.
+Poniendo ...  MARU044  4
+- La función devolvió 1.
+ clave calif
+LALO111  4
+LELO169  4
+LULI180  4
+MARU044  4
+- Hay 4 nodos.
+Poniendo ...  LOLO166  4
+- La función devolvió 1.
+ clave calif
+LALO111  4
+LELO169  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 5 nodos.
+Poniendo ...  JUAN314  2
+- La función devolvió 4.
+ clave calif
+LALO111  4
+LELO169  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 5 nodos.
+Poniendo ...  JUAN628  3
+- La función devolvió 4.
+ clave calif
+LALO111  4
+LELO169  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 5 nodos.
+Poniendo ...  LALO094  4
+- La función devolvió 1.
+ clave calif
+LALO094  4
+LALO111  4
+LELO169  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 6 nodos.
+Poniendo ...  LELO184  4
+- La función devolvió 1.
+ clave calif
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 7 nodos.
+Poniendo ...  MARU007  2
+- La función devolvió 4.
+ clave calif
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 7 nodos.
+Poniendo ...  PEPE012  3
+- La función devolvió 4.
+ clave calif
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 7 nodos.
+Poniendo ...  LULI123  1
+- La función devolvió 4.
+ clave calif
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 7 nodos.
+Poniendo ...  RUCU046  6
+- La función devolvió 1.
+ clave calif
+RUCU046  6
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+- Hay 8 nodos.
+Poniendo ...  MARU092  4
+- La función devolvió 1.
+ clave calif
+RUCU046  6
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+MARU092  4
+- Hay 9 nodos.
+Poniendo ...  MORO128  5
+- La función devolvió 1.
+ clave calif
+RUCU046  6
+MORO128  5
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+MARU092  4
+- Hay 10 nodos.
+Poniendo ...  LELO052  5
+- La función devolvió 1.
+ clave calif
+RUCU046  6
+LELO052  5
+MORO128  5
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+MARU092  4
+- Hay 11 nodos.
+Poniendo ...  LELO115  6
+- La función devolvió 1.
+ clave calif
+LELO115  6
+RUCU046  6
+LELO052  5
+MORO128  5
+LALO094  4
+LALO111  4
+LELO169  4
+LELO184  4
+LOLO166  4
+LULI180  4
+MARU044  4
+MARU092  4
+- Hay 12 nodos.
+Poniendo ...  PEPE109  8
+- La función devolvió -8.
+ clave calif
+PEPE109  8
+LELO115  6
+RUCU046  6
+LELO052  5
+MORO128  5
+- Hay 5 nodos.
+Poniendo ...  PIPO002  7
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+PIPO002  7
+LELO115  6
+RUCU046  6
+LELO052  5
+MORO128  5
+- Hay 6 nodos.
+Poniendo ...  RUCU195  8
+- La función devolvió -2.
+ clave calif
+PEPE109  8
+RUCU195  8
+PIPO002  7
+LELO115  6
+RUCU046  6
+- Hay 5 nodos.
+Poniendo ...  LOLO144  7
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+PIPO002  7
+LELO115  6
+RUCU046  6
+- Hay 6 nodos.
+Poniendo ...  LULI168  7
+- La función devolvió -2.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 5 nodos.
+Poniendo ...  PEPE036  6
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 5 nodos.
+Poniendo ...  PEPE080  5
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 5 nodos.
+Poniendo ...  LALO086  4
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 5 nodos.
+Poniendo ...  LELO105  3
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 5 nodos.
+Poniendo ...  MARU125  2
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 5 nodos.
+Poniendo ...  PIPO052  1
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 5 nodos.
+Poniendo ...  LELO047  0
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 5 nodos.
+Poniendo ...  LULI141  6
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 5 nodos.
+Poniendo ...  RUCU022  6
+- La función devolvió 4.
+ clave calif
+PEPE109  8
+RUCU195  8
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 5 nodos.
+Poniendo ...  LALO174  7
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 6 nodos.
+Poniendo ...  LOLO126  7
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+PIPO002  7
+- Hay 7 nodos.
+Poniendo ...  MORO153  7
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+MORO153  7
+PIPO002  7
+- Hay 8 nodos.
+Poniendo ...  MORO165  7
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+MORO153  7
+MORO165  7
+PIPO002  7
+- Hay 9 nodos.
+Poniendo ...  PIPO138  7
+- La función devolvió 1.
+ clave calif
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+MORO153  7
+MORO165  7
+PIPO002  7
+PIPO138  7
+- Hay 10 nodos.
+Poniendo ...  LULI099  8
+- La función devolvió 1.
+ clave calif
+LULI099  8
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+MORO153  7
+MORO165  7
+PIPO002  7
+PIPO138  7
+- Hay 11 nodos.
+Poniendo ...  MARU106  8
+- La función devolvió 1.
+ clave calif
+LULI099  8
+MARU106  8
+PEPE109  8
+RUCU195  8
+LALO174  7
+LOLO126  7
+LOLO144  7
+LULI168  7
+MORO153  7
+MORO165  7
+PIPO002  7
+PIPO138  7
+- Hay 12 nodos.
+Poniendo ...  MARU126  9
+- La función devolvió -8.
+ clave calif
+MARU126  9
+LULI099  8
+MARU106  8
+PEPE109  8
+RUCU195  8
+- Hay 5 nodos.
+Se eliminaron 5 nodos de la lista.
+******************************************** 
+*         Fin ejecución Punto 1 b.-        * 
+******************************************** 
+

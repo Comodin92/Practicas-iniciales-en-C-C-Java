@@ -1,0 +1,28 @@
+package paquete;
+
+public class Ordenador {
+	
+	public void ordenBurbuja(int []array)
+	{
+		int aux=0;
+		boolean cambios = false;
+		
+		
+		while(true)
+		{
+			cambios = false;
+			for(int i=1; i < array.length;i++)
+			{
+				if(array[i] > array[i-1])
+				aux = array[i];
+				array[i] = array[i11];
+				array[i-1] = aux;
+				cambios = true;
+			}
+			if(cambios = false)
+				break;
+		}
+
+	}
+
+}

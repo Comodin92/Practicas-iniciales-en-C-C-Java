@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1593585860 source:c:\users\usuario\downloads\ear2-poo-tda\ear2-poo-tda\ear2-proyecto32bits\funciones.c
+	"funciones.h"
+
+1593556040 c:\users\usuario\downloads\ear2-poo-tda\ear2-poo-tda\ear2-proyecto32bits\funciones.h
+	<stdio.h>
+
+1593585755 source:c:\users\usuario\downloads\ear2-poo-tda\ear2-poo-tda\ear2-proyecto32bits\main.c
+	"main.h"
+
+1593556040 c:\users\usuario\downloads\ear2-poo-tda\ear2-poo-tda\ear2-proyecto32bits\main.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

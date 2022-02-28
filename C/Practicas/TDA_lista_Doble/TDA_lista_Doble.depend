@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1605443382 source:d:\facultad\programacion\renata cuarentena\tda_lista_doble\main.c
+	"TDA_Lista_doble.h"
+
+1605443777 d:\facultad\programacion\renata cuarentena\tda_lista_doble\tda_lista_doble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605443836 source:d:\facultad\programacion\renata cuarentena\tda_lista_doble\tda_lista_doble.c
+	"TDA_Lista_doble.h"
+
+1605443382 source:d:\facultad\programacion - cursando\renata cuarentena\tda_lista_doble\main.c
+	"TDA_Lista_doble.h"
+
+1605443777 d:\facultad\programacion - cursando\renata cuarentena\tda_lista_doble\tda_lista_doble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606462702 source:d:\facultad\programacion - cursando\renata cuarentena\tda_lista_doble\tda_lista_doble.c
+	"TDA_Lista_doble.h"
+

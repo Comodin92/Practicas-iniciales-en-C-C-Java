@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1447858424 source:c:\users\elías\desktop\programación\2do parcial\clase persona\clase persona\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1425044802 c:\users\elías\desktop\programación\2do parcial\clase persona\clase persona\fecha.h
+	<iostream>
+
+1447858943 source:c:\users\elías\desktop\programación\2do parcial\clase persona\clase persona\main.cpp
+	"Persona.h"
+	"Fecha.h"
+	"Titular.h"
+
+1447859177 c:\users\elías\desktop\programación\2do parcial\clase persona\clase persona\persona.h
+	"Fecha.h"
+	"Titular.h"
+	<iostream>
+	<string.h>
+
+1447858997 source:c:\users\elías\desktop\programación\2do parcial\clase persona\clase persona\persona.cpp
+	"Persona.h"
+
+1447858400 c:\users\elías\desktop\programación\2do parcial\clase persona\clase persona\titular.h
+	<iostream>
+	<string.h>
+
+1447858278 source:c:\users\elías\desktop\programación\2do parcial\clase persona\clase persona\titular.cpp
+	"Titular.h"
+
+1459347176 source:f:\nueva carpeta\programacion\si\c++\clase persona parcial\clase persona\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1459347180 f:\nueva carpeta\programacion\si\c++\clase persona parcial\clase persona\fecha.h
+	<iostream>
+
+1459347180 source:f:\nueva carpeta\programacion\si\c++\clase persona parcial\clase persona\main.cpp
+	"Persona.h"
+	"Fecha.h"
+	"Titular.h"
+
+1459347180 f:\nueva carpeta\programacion\si\c++\clase persona parcial\clase persona\persona.h
+	"Fecha.h"
+	"Titular.h"
+	<iostream>
+	<string.h>
+
+1459347180 f:\nueva carpeta\programacion\si\c++\clase persona parcial\clase persona\titular.h
+	<iostream>
+	<string.h>
+
+1459347180 source:f:\nueva carpeta\programacion\si\c++\clase persona parcial\clase persona\persona.cpp
+	"Persona.h"
+
+1459347180 source:f:\nueva carpeta\programacion\si\c++\clase persona parcial\clase persona\titular.cpp
+	"Titular.h"
+

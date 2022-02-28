@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1605050848 source:d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\evf_20201029_poo\main.cpp
+	<iostream>
+	"Recta.h"
+
+1605069468 d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\evf_20201029_poo\include\recta.h
+	<iostream>
+	"Punto.h"
+
+1605111863 d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\evf_20201029_poo\include\punto.h
+	<iostream>
+
+1605112431 source:d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\evf_20201029_poo\src\punto.cpp
+	<math.h>
+	"Punto.h"
+
+1605112137 source:d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\evf_20201029_poo\src\recta.cpp
+	<math.h>
+	"RectaException.h"
+	"Recta.h"
+	<cmath>
+
+1604973892 d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\evf_20201029_poo\include\rectaexception.h
+	<string>
+
+1604911805 source:d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\evf_20201029_poo\src\rectaexception.cpp
+	"RectaException.h"
+

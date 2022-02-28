@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1496357608 source:e:\facultad\programacion\lopez\primer cuatri 2017\archivos\apareo de archivos\funciones.c
+	"funciones.h"
+
+1496356851 e:\facultad\programacion\lopez\primer cuatri 2017\archivos\apareo de archivos\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1496356415 source:e:\facultad\programacion\lopez\primer cuatri 2017\archivos\apareo de archivos\main.c
+	"funciones.h"
+
+1496357666 source:c:\users\usuario\desktop\facultad\programacion\lopez primer cuatri 2017\lopez primer cuatri 2017\primer cuatri 2017\archivos\promocion, desaprobado y aprobo\funciones.c
+	"funciones.h"
+
+1496356851 c:\users\usuario\desktop\facultad\programacion\lopez primer cuatri 2017\lopez primer cuatri 2017\primer cuatri 2017\archivos\promocion, desaprobado y aprobo\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1496358275 source:c:\users\usuario\desktop\facultad\programacion\lopez primer cuatri 2017\lopez primer cuatri 2017\primer cuatri 2017\archivos\promocion, desaprobado y aprobo\main.c
+	"funciones.h"
+

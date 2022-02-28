@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1354189630 source:c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\cajacolor\main.cpp
+	"CajaColor.h"
+
+1354188987 c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\cajacolor\cajacolor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1354189279 source:c:\users\diego\documents\diego\unlam\programacion\guia de trabajos practicos\trabajo practico 5\cajacolor\cajacolor.cpp
+	"CajaColor.h"
+
+1459348368 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\objetos c++\cajacolor\cajacolor\cajacolor.cpp
+	"CajaColor.h"
+
+1459348570 f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\objetos c++\cajacolor\cajacolor\cajacolor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1459348570 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\objetos c++\cajacolor\cajacolor\main.cpp
+	"CajaColor.h"
+
+1459348368 source:g:\proyectos - cursos - universidad\c++\si c++\cajacolor\cajacolor.cpp
+	"CajaColor.h"
+
+1459348570 g:\proyectos - cursos - universidad\c++\si c++\cajacolor\cajacolor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1459348570 source:g:\proyectos - cursos - universidad\c++\si c++\cajacolor\main.cpp
+	"CajaColor.h"
+

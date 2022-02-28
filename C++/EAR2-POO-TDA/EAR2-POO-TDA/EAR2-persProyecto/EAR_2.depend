@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1628030662 source:d:\proyectos - cursos - universidad\c++\si c++\ear2-poo-tda\ear2-poo-tda\ear2-persproyecto\main.cpp
+	"main.h"
+	<fstream>
+
+1593556040 d:\proyectos - cursos - universidad\c++\si c++\ear2-poo-tda\ear2-poo-tda\ear2-persproyecto\main.h
+	<iostream>
+	<sstream>
+	"pers.h"
+
+1628030259 d:\proyectos - cursos - universidad\c++\si c++\ear2-poo-tda\ear2-poo-tda\ear2-persproyecto\pers.h
+	<iostream>
+	<string>
+	"stdio.h"
+	"stdlib.h"
+	<cstdio>
+
+1628030756 source:d:\proyectos - cursos - universidad\c++\si c++\ear2-poo-tda\ear2-poo-tda\ear2-persproyecto\pers.cpp
+	"pers.h"
+

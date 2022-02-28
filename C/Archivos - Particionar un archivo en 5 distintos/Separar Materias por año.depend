@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1505156796 source:c:\users\hogar\desktop\programacion-pezzola\bibiotlecas\archivos.c
+
+1505161442 source:c:\users\hogar\desktop\programacion-pezzola\archivos\separar materias por año\main.c
+	"../../Bibiotlecas/archivos.h"
+
+1505161291 c:\users\hogar\desktop\programacion-pezzola\bibiotlecas\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1537537736 source:c:\users\hogar\desktop\programacion ordenado\programacion-pezzola-2017\archivos\separar materias por año\main.c
+	"../../Bibiotlecas/archivos.h"
+
+1537537755 c:\users\hogar\desktop\programacion ordenado\programacion-pezzola-2017\bibiotlecas\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1537537736 source:c:\users\usuario\desktop\facultad\programacion\programacion ordenado\programacion-pezzola-2017\archivos\separar materias por año\main.c
+	"../../Bibiotlecas/archivos.h"
+
+1537537755 c:\users\usuario\desktop\facultad\programacion\programacion ordenado\programacion-pezzola-2017\bibiotlecas\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1537537736 source:c:\users\usuario\desktop\programacion\programacion\programacion ordenado\programacion-pezzola-2017\archivos\separar materias por año\main.c
+	"../../Bibiotlecas/archivos.h"
+
+1537537755 c:\users\usuario\desktop\programacion\programacion\programacion ordenado\programacion-pezzola-2017\bibiotlecas\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

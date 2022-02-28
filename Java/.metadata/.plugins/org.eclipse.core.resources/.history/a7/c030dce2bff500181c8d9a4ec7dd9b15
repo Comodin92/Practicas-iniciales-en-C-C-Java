@@ -1,0 +1,12 @@
+package paquete;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int []arreglo = {5,3,4,2};
+		Ordenador o = new Ordenador();
+		o.ordenBurbuja(arreglo);
+	}
+
+}

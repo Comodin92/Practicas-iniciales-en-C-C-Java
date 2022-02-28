@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1607554451 source:c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_poo\main.cpp
+	<iostream>
+	"include/CambioEscalaException.h"
+	"include/Cuerdas.h"
+	"include/Vientos.h"
+	"include/Percusion.h"
+	"include/Instrumento.h"
+
+1607543847 c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_poo\include\cambioescalaexception.h
+	<iostream>
+
+1607560948 c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_poo\include\cuerdas.h
+	"Instrumento.h"
+
+1607554466 c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_poo\include\instrumento.h
+	<string>
+
+1607553916 c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_poo\include\vientos.h
+	"Instrumento.h"
+
+1607553929 c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_poo\include\percusion.h
+	"Instrumento.h"
+
+1607560967 source:c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_poo\source\cuerdas.cpp
+	<string.h>
+	"../include/Cuerdas.h"
+
+1607553529 source:c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_poo\source\instrumento.cpp
+	"../include/Instrumento.h"
+
+1607554451 source:c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_poo\source\percusion.cpp
+	<string.h>
+	"../include/Percusion.h"
+	"../include/CambioEscalaException.h"
+	"../include/Instrumento.h"
+
+1607547369 source:c:\users\juan\downloads\eda3-2c\eda3-2c-entregable\eda3-2c_poo\source\vientos.cpp
+	"../include/Vientos.h"
+
+1607558051 source:d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_poo\main.cpp
+	<iostream>
+	"include/CambioEscalaException.h"
+	"include/Cuerdas.h"
+	"include/Vientos.h"
+	"include/Percusion.h"
+	"include/Instrumento.h"
+
+1607547447 d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_poo\include\cambioescalaexception.h
+	<iostream>
+
+1607564548 d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_poo\include\cuerdas.h
+	"Instrumento.h"
+
+1607558066 d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_poo\include\instrumento.h
+	<string>
+
+1607557516 d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_poo\include\vientos.h
+	"Instrumento.h"
+
+1607557529 d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_poo\include\percusion.h
+	"Instrumento.h"
+
+1607564567 source:d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_poo\source\cuerdas.cpp
+	<string.h>
+	"../include/Cuerdas.h"
+
+1607557129 source:d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_poo\source\instrumento.cpp
+	"../include/Instrumento.h"
+
+1607558051 source:d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_poo\source\percusion.cpp
+	<string.h>
+	"../include/Percusion.h"
+	"../include/CambioEscalaException.h"
+	"../include/Instrumento.h"
+
+1607550969 source:d:\proyectos - cursos - universidad\c\examenes\eda3-2c\eda3-2c-entregable\eda3-2c_poo\source\vientos.cpp
+	"../include/Vientos.h"
+

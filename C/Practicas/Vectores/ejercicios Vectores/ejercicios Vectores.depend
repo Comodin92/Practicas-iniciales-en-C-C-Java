@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599252197 source:c:\users\juan\desktop\renata cuarentena\vectores\ejercicios vectores\funcinoesvectores.c
+
+1600615642 source:c:\users\juan\desktop\renata cuarentena\vectores\ejercicios vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+

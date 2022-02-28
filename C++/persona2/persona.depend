@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1435520010 source:c:\programacion\c++\persona\main.cpp
+	"Persona.h"
+
+1435519050 c:\programacion\c++\persona\persona.h
+	<iostream>
+	<string.h>
+
+1435519976 source:c:\programacion\c++\persona\persona.cpp
+	"Persona.h"
+
+1435520010 source:e:\facultad\programacion\potror\c++\persona\main.cpp
+	"Persona.h"
+
+1435519050 e:\facultad\programacion\potror\c++\persona\persona.h
+	<iostream>
+	<string.h>
+
+1435520010 source:f:\nueva carpeta\programacion\si\c++\persona\main.cpp
+	"Persona.h"
+
+1435519050 f:\nueva carpeta\programacion\si\c++\persona\persona.h
+	<iostream>
+	<string.h>
+
+1435520078 source:f:\nueva carpeta\programacion\si\c++\persona\persona.cpp
+	"Persona.h"
+

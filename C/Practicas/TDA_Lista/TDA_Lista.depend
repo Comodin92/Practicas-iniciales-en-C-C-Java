@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1604618821 source:d:\facultad\programacion\renata cuarentena\tda_lista\main.c
+	"TDA_lista.h"
+
+1604618821 d:\facultad\programacion\renata cuarentena\tda_lista\tda_lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604647184 source:d:\facultad\programacion\renata cuarentena\tda_lista\tda_lista.c
+	"TDA_lista.h"
+
+1606780473 source:d:\facultad\programacion - cursando\renata cuarentena\tda_lista\main.c
+	"TDA_lista.h"
+
+1606780405 d:\facultad\programacion - cursando\renata cuarentena\tda_lista\tda_lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606781612 source:d:\facultad\programacion - cursando\renata cuarentena\tda_lista\tda_lista.c
+	"TDA_lista.h"
+
+1606784073 source:d:\proyectos - cursos - universidad\c\practicas\tda_lista\main.c
+	"TDA_lista.h"
+
+1607083175 d:\proyectos - cursos - universidad\c\practicas\tda_lista\tda_lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

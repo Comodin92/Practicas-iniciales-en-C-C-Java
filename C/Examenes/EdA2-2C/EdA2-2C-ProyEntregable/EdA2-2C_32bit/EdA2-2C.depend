@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1605113050 source:d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\eda2-2c_32bit\funciones.c
+	"funciones.h"
+	<string.h>
+
+1605113050 d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\eda2-2c_32bit\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"pila/pila.h"
+
+1605106573 d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\eda2-2c_32bit\que_hice.h
+
+1604911805 d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\eda2-2c_32bit\pila\pila.h
+	<stdlib.h>
+	<string.h>
+
+1605102406 source:d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\eda2-2c_32bit\main.c
+	"main.h"
+
+1604911805 d:\facultad\programacion\eda2-2c\eda2-2c-proyentregable\eda2-2c_32bit\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+

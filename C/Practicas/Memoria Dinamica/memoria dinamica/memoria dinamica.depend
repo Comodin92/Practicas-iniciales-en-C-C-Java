@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1602248306 source:c:\users\juan\desktop\facultad\programacion\renata cuarentena\memoria dinamica\memoria dinamica\ejerciciomemdinamica.c
+	"ejercicioMemDinamica.h"
+
+1602247437 c:\users\juan\desktop\facultad\programacion\renata cuarentena\memoria dinamica\memoria dinamica\ejerciciomemdinamica.h
+	<stdio.h>
+	<stdlib.h>
+
+1602247437 source:c:\users\juan\desktop\facultad\programacion\renata cuarentena\memoria dinamica\memoria dinamica\main.c
+	"ejercicioMemDinamica.h"
+

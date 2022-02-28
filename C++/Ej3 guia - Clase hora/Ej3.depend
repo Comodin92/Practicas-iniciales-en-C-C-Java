@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1459348230 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej3\hora.cpp
+	"Hora.h"
+
+1459348236 f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej3\hora.h
+	<iostream>
+
+1459348236 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej3\main.cpp
+	<iostream>
+

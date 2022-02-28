@@ -1,0 +1,12 @@
+     2020-11-09 – Nodo C - Tipo_D
+ PRODUCTO CANTI. COD CLI   VALOR 
+========= ====== ======= ========
+PRB           92 EL UNO      1.99
+KX01        3228 EL UNO      0.25
+JP104          5 PIRULOS  1300.00
+PRB          500 LA CAVA     1.99
+ST001        700 LA CAVA     2.21
+JP104          2 EL UNO   1204.50
+KX01         290 EL UNO      0.25
+KX01         288 ALMA        0.25
+PRB          300 ALMA        1.60

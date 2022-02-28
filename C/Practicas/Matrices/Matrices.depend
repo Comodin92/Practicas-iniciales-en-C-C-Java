@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1600355676 source:c:\users\juan\desktop\renata cuarentena\matrices\ejerciciomatrices.c
+	"ejercicioMatrices.h"
+	"main.h"
+
+1600315649 c:\users\juan\desktop\renata cuarentena\matrices\ejerciciomatrices.h
+
+1600355676 source:c:\users\juan\desktop\renata cuarentena\matrices\main.c
+	"main.h"
+	"ejercicioMatrices.h"
+
+1600315650 c:\users\juan\desktop\renata cuarentena\matrices\main.h
+	"ejercicioMatrices.h"
+	<stdio.h>
+	<stdlib.h>
+
+1600352076 source:d:\facultad\programacion - cursando\renata cuarentena\matrices\ejerciciomatrices.c
+	"ejercicioMatrices.h"
+	"main.h"
+
+1600312049 d:\facultad\programacion - cursando\renata cuarentena\matrices\ejerciciomatrices.h
+
+1600312050 d:\facultad\programacion - cursando\renata cuarentena\matrices\main.h
+	"ejercicioMatrices.h"
+	<stdio.h>
+	<stdlib.h>
+
+1600352076 source:d:\facultad\programacion - cursando\renata cuarentena\matrices\main.c
+	"main.h"
+	"ejercicioMatrices.h"
+
+1628106083 source:d:\proyectos - cursos - universidad\c\practicas\matrices\ejerciciomatrices.c
+	"ejercicioMatrices.h"
+	"main.h"
+
+1628103870 d:\proyectos - cursos - universidad\c\practicas\matrices\ejerciciomatrices.h
+
+1600315650 d:\proyectos - cursos - universidad\c\practicas\matrices\main.h
+	"ejercicioMatrices.h"
+	<stdio.h>
+	<stdlib.h>
+
+1628103927 source:d:\proyectos - cursos - universidad\c\practicas\matrices\main.c
+	"main.h"
+	"ejercicioMatrices.h"
+

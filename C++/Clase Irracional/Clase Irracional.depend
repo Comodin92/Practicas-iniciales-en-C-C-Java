@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1385166789 source:c:\users\juliano\dropbox\codeblocksproject\ej_sueltos\clase irracional\main.cpp
+	<iostream>
+	"Irracional.h"
+
+1385166789 c:\users\juliano\dropbox\codeblocksproject\ej_sueltos\clase irracional\irracional.h
+	<stdlib.h>
+	<iostream>
+
+1385166939 source:c:\users\juliano\dropbox\codeblocksproject\ej_sueltos\clase irracional\irracional.cpp
+	"Irracional.h"
+
+1385163340 source:c:\users\usuario\documents\backup\desktop\facultad\programacion ordenado\primer cuatri lopez 2017\practicando c++ (cursada renata pezzola)\c++\clase irracional\irracional.cpp
+	"Irracional.h"
+
+1385163190 c:\users\usuario\documents\backup\desktop\facultad\programacion ordenado\primer cuatri lopez 2017\practicando c++ (cursada renata pezzola)\c++\clase irracional\irracional.h
+	<stdlib.h>
+	<iostream>
+
+1385163190 source:c:\users\usuario\documents\backup\desktop\facultad\programacion ordenado\primer cuatri lopez 2017\practicando c++ (cursada renata pezzola)\c++\clase irracional\main.cpp
+	<iostream>
+	"Irracional.h"
+
+1385166940 source:f:\nueva carpeta\programacion\si\c++\clase irracional\irracional.cpp
+	"Irracional.h"
+
+1385166790 f:\nueva carpeta\programacion\si\c++\clase irracional\irracional.h
+	<stdlib.h>
+	<iostream>
+
+1385166790 source:f:\nueva carpeta\programacion\si\c++\clase irracional\main.cpp
+	<iostream>
+	"Irracional.h"
+

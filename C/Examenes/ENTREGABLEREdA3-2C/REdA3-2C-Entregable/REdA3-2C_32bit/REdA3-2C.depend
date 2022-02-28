@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1608080606 source:c:\users\juan\downloads\entregablereda3-2c\reda3-2c-entregable\reda3-2c_32bit\funciones.c
+	"funciones.h"
+	<stdlib.h>
+	<string.h>
+
+1607612373 c:\users\juan\downloads\entregablereda3-2c\reda3-2c-entregable\reda3-2c_32bit\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1608082158 c:\users\juan\downloads\entregablereda3-2c\reda3-2c-entregable\reda3-2c_32bit\que_hice.h
+
+1607541376 c:\users\juan\downloads\entregablereda3-2c\reda3-2c-entregable\reda3-2c_32bit\tda_definiciones.h
+
+1608082146 source:c:\users\juan\downloads\entregablereda3-2c\reda3-2c-entregable\reda3-2c_32bit\main.c
+	"main.h"
+
+1607541376 c:\users\juan\downloads\entregablereda3-2c\reda3-2c-entregable\reda3-2c_32bit\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+
+1608084206 source:d:\proyectos - cursos - universidad\c\examenes\entregablereda3-2c\reda3-2c-entregable\reda3-2c_32bit\funciones.c
+	"funciones.h"
+	<stdlib.h>
+	<string.h>
+
+1607615973 d:\proyectos - cursos - universidad\c\examenes\entregablereda3-2c\reda3-2c-entregable\reda3-2c_32bit\funciones.h
+	<stdio.h>
+	"que_hice.h"
+	"tda_definiciones.h"
+
+1608085758 d:\proyectos - cursos - universidad\c\examenes\entregablereda3-2c\reda3-2c-entregable\reda3-2c_32bit\que_hice.h
+
+1607544976 d:\proyectos - cursos - universidad\c\examenes\entregablereda3-2c\reda3-2c-entregable\reda3-2c_32bit\tda_definiciones.h
+
+1608085746 source:d:\proyectos - cursos - universidad\c\examenes\entregablereda3-2c\reda3-2c-entregable\reda3-2c_32bit\main.c
+	"main.h"
+
+1607544976 d:\proyectos - cursos - universidad\c\examenes\entregablereda3-2c\reda3-2c-entregable\reda3-2c_32bit\main.h
+	<stdio.h>
+	"funciones.h"
+	"que_hice.h"
+	<stdlib.h>
+	<string.h>
+

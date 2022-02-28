@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1605626703 source:d:\facultad\programacion\renata cuarentena\recursividad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1605699645 source:d:\facultad\programacion - cursando\renata cuarentena\recursividad\main.c
+	"recursividad.h"
+
+1605698578 d:\facultad\programacion - cursando\renata cuarentena\recursividad\recursividad.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"recursividad.h"
+
+1605699597 source:d:\facultad\programacion - cursando\renata cuarentena\recursividad\recursividad.c
+	"recursividad.h"
+

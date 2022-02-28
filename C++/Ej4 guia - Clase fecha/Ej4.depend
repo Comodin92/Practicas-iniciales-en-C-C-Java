@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1189872156 source:d:\coding\c\entrega\unidad 5\ej4\main.cpp
+	<iostream>
+
+1353362513 source:d:\coding\c\entrega\unidad 5\ej4\fecha.cpp
+	"Fecha.h"
+
+1353361360 d:\coding\c\entrega\unidad 5\ej4\fecha.h
+	<iostream>
+
+1459348236 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej4\fecha.cpp
+	"Fecha.h"
+
+1459348236 f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej4\fecha.h
+	<iostream>
+
+1459348236 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej4\main.cpp
+	<iostream>
+	"Fecha.h"
+

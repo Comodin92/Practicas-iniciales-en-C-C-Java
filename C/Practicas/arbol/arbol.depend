@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1606460853 source:d:\facultad\programacion - cursando\renata cuarentena\arbol\main.c
+	"arbol.h"
+	"main.h"
+
+1606406708 d:\facultad\programacion - cursando\renata cuarentena\arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606489897 source:d:\facultad\programacion - cursando\renata cuarentena\arbol\arbol.c
+	"arbol.h"
+
+1606300252 d:\facultad\programacion - cursando\renata cuarentena\arbol\main.h
+
+1606493497 source:d:\proyectos - cursos - universidad\c\practicas\arbol\arbol.c
+	"arbol.h"
+
+1606410308 d:\proyectos - cursos - universidad\c\practicas\arbol\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606464453 source:d:\proyectos - cursos - universidad\c\practicas\arbol\main.c
+	"arbol.h"
+	"main.h"
+
+1606303852 d:\proyectos - cursos - universidad\c\practicas\arbol\main.h
+

@@ -1,0 +1,40 @@
+1024 | Elementos de Programacion | Marko | 1
+1025 | Dibujo Tecnico | Williner | 1
+1026 | Tecnologia Ingenieria y Sociedad | Pagani | 1
+1027 | Algebra y Geometria Analitica I | Bertua | 1
+1028 | Matematica Discreta | Tere Fernandez | 1
+1029 | Quimica General | Rodriguez | 1
+1030 | Fundamentos de Tics | Levi | 1
+1031 | Fisica I | Royo | 2
+1032 | Algebra y Geometria Analitica II | Lugo | 2
+1033 | Analisis Matematico II | Lopez | 2
+1035 | Fisica II | Cardillo | 2
+1108 | Requerimientos para la Ingenieria | Crocco | 2
+1109 | Arquitectura de computadoras | Jair | 2
+1110 | Programacion | Renata | 2
+1111 | Probabilidad y Estadistica | Gutierrez | 3
+1112 | Auditoria y Seguridad Informatica | Donadello | 3
+1113 | Programacion Avanzada | Aubin | 3
+1114 | Base de Datos | Ichazo | 3
+1115 | Sistemas Operativos | Rivalta | 3
+1116 | Analisis de Sistemas | Canellas | 3
+1117 | Calculo Numerico | Fernandez | 3
+1118 | Ingenieria de Requerimientos | Hadad | 4
+1119 | Comunicacion de Datos | Perez | 4
+1120 | Diseno de Sistemas | Donadello-Disenio Sistemas | 4
+1121 | Analisis de Sistemas | Vinjoy | 3
+1122 | Redes de Computadoras | Binker | 4
+1123 | Sistemas Operativos Avanzados | De Luca | 4
+1124 | Lenguajes y Compiladores | Capuya | 4
+1125 | Gestion Organizacional | Vera | 4
+1126 | Ingenieria de Software | Mon | 5
+1127 | Elementos de Inteligencia Artificial | Ierache | 5
+1129 | Automatas y Lenguajes Formales | Basso | 5
+1132 | Proyecto | Eribe | 5
+1133 | Practica Profesional Supervisada | Eribe-Practica profesional super | 4
+1140 | Laboratorio de Teleinformática | Perez Guntin | 5
+1141 | Seguridad en Redes | Donadello- Seguridad en Redes | 5
+1142 | Lenguajes Descriptivos de Hardware | Vacio | 5
+1136 | Proceso Software | Harad- Proceso Software | 5
+1137 | Data Mining y Data Warehouse | Santa Maria | 5
+1137 | Data Mining y Data Warehouse | Santa Maria | 5

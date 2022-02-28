@@ -1,0 +1,19 @@
+package paquete;
+import java.util.Stack;
+public class Main {
+
+	public static void main(String[] args) {
+		/*Java = C
+		 * Push = Insertar en pila
+		 * Pop = Sacar de pila
+		 * Peek = Ver tope
+		 * Empry = Saber si la pila esta llena o vacia
+		 * */
+		Stack pila = new Stack ();
+		pila.push("hola Damian");
+		pila.pop();
+		
+		
+	}
+
+}

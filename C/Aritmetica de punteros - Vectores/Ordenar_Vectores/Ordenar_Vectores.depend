@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505936875 source:c:\users\hogar\desktop\programacion-pezzola\vectores\ordenar_vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+

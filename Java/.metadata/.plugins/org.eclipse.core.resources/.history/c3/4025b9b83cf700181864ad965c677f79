@@ -1,0 +1,51 @@
+package paquete;
+
+public class Ordenador {
+	
+	public void ordenBurbuja(int [] array)
+	{
+		int aux;
+		boolean cambios = false;
+		
+		
+		while(true)
+		{
+			cambios = false;
+			for(int i=1; i<array.length;i++)
+			{
+				if(array[i]<array[i-1])
+				{
+					aux = array[i];
+					array[i] = array[i-1];
+					array[i-1] = aux;
+					cambios = true;
+				}
+			}
+				
+			if(cambios == false)
+				break;
+		}
+
+	}
+	public void ordenInsercion(int []Array)
+	{
+		int aux;//Cambio de posiciones, no se pierda el dato 
+		int cont1, cont2;
+		for(cont1 = 1; cont1 < Array.length ;cont1++)
+		{
+			aux = Array[cont1];
+			for(cont2 = cont1-1 ; cont2 >= 0 && Array[cont2] > aux; cont2--)
+			{
+				Array[cont2+1] = Array[cont2];
+				Array[cont2] = aux;
+				
+				
+			}
+				
+			
+		}
+		
+		
+	}
+
+}

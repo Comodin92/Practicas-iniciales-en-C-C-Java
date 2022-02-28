@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1600877188 source:c:\users\juan\desktop\renata cuarentena\cadenas\main.c
+	"main.h"
+	"ejercicioCadenas.h"
+
+1600877348 source:c:\users\juan\desktop\renata cuarentena\cadenas\ejerciciocadenas.c
+	"ejercicioCadenas.h"
+	"main.h"
+
+1600877188 c:\users\juan\desktop\renata cuarentena\cadenas\ejerciciocadenas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1600562837 c:\users\juan\desktop\renata cuarentena\cadenas\main.h
+
+1602660201 source:c:\users\juan\desktop\facultad\programacion\renata cuarentena\cadenas\ejerciciocadenas.c
+	"ejercicioCadenas.h"
+	"main.h"
+
+1602460534 c:\users\juan\desktop\facultad\programacion\renata cuarentena\cadenas\ejerciciocadenas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1600562837 c:\users\juan\desktop\facultad\programacion\renata cuarentena\cadenas\main.h
+
+1602660149 source:c:\users\juan\desktop\facultad\programacion\renata cuarentena\cadenas\main.c
+	"main.h"
+	"ejercicioCadenas.h"
+

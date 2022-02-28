@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1353351487 source:d:\coding\c\entrega\unidad 5\ej1\main.cpp
+	<iostream>
+	"Punto.h"
+
+1353351467 d:\coding\c\entrega\unidad 5\ej1\punto.h
+	<iostream>
+
+1353351467 source:d:\coding\c\entrega\unidad 5\ej1\punto.cpp
+	"punto.h"
+
+1353355087 source:c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos\trabajo practico 5\unidad 5\ej1\main.cpp
+	<iostream>
+	"Punto.h"
+
+1353355067 c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos\trabajo practico 5\unidad 5\ej1\punto.h
+	<iostream>
+
+1353355067 source:c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos\trabajo practico 5\unidad 5\ej1\punto.cpp
+	"punto.h"
+
+1384355393 source:c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos y mas!!\trabajo practico 5\unidad 5\ej1\main.cpp
+	<iostream>
+	"Punto.h"
+
+1353355067 c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos y mas!!\trabajo practico 5\unidad 5\ej1\punto.h
+	<iostream>
+
+1353355067 source:c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos y mas!!\trabajo practico 5\unidad 5\ej1\punto.cpp
+	"punto.h"
+
+1459348216 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej1\main.cpp
+	<iostream>
+	"Punto.h"
+
+1459348230 f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej1\punto.h
+	<iostream>
+
+1459348216 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej1\punto.cpp
+	"punto.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1591520253 source:d:\proyectos - cursos - universidad\c\examenes\36902267_gutierrez_edgardodamian_ea_1\funciones.c
+	"funciones.h"
+
+1591518981 d:\proyectos - cursos - universidad\c\examenes\36902267_gutierrez_edgardodamian_ea_1\funciones.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1591518981 source:d:\proyectos - cursos - universidad\c\examenes\36902267_gutierrez_edgardodamian_ea_1\main.c
+	"main.h"
+
+1591235946 d:\proyectos - cursos - universidad\c\examenes\36902267_gutierrez_edgardodamian_ea_1\main.h
+	<stdio.h>
+	"funciones.h"
+

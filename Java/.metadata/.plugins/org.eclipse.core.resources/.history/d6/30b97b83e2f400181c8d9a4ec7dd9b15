@@ -1,0 +1,16 @@
+package paquete;
+
+public class Textos {
+
+	public void leer(string nombreArchivo)
+	{
+		try {
+			FileReader r = new FileReader(nombreArchivo);
+			BufferedReader buffer = new BufferedReader(r);
+			System.out.println(r);
+		}
+		
+	}
+	
+
+}

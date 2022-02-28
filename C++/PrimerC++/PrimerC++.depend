@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1385408054 source:c:\users\juliano\dropbox\codeblocksproject\pruebas\lissimpenlaz\primerc++\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Persona.h"
+	"Fecha.h"
+	"Empleado.h"
+
+1384818129 c:\users\juliano\dropbox\codeblocksproject\pruebas\lissimpenlaz\primerc++\persona.h
+	<iostream>
+	"Fecha.h"
+
+1385408110 source:c:\users\juliano\dropbox\codeblocksproject\pruebas\lissimpenlaz\primerc++\persona.cpp
+	<iostream>
+	<string.h>
+	"persona.h"
+
+1385321278 source:c:\users\juliano\dropbox\codeblocksproject\pruebas\lissimpenlaz\primerc++\empleado.cpp
+	"Empleado.h"
+	"Persona.h"
+	"Fecha.h"
+
+1384306781 c:\users\juliano\dropbox\codeblocksproject\pruebas\lissimpenlaz\primerc++\empleado.h
+	"Persona.h"
+	"Fecha.h"
+
+1385321038 source:c:\users\juliano\dropbox\codeblocksproject\pruebas\lissimpenlaz\primerc++\fecha.cpp
+	<string.h>
+	<iostream>
+	"Fecha.h"
+	<stdlib.h>
+
+1385321038 c:\users\juliano\dropbox\codeblocksproject\pruebas\lissimpenlaz\primerc++\fecha.h
+	<iostream>
+
+1385321280 source:f:\nueva carpeta\programacion\si\c++\primerc++\empleado.cpp
+	"Empleado.h"
+	"Persona.h"
+	"Fecha.h"
+
+1384306782 f:\nueva carpeta\programacion\si\c++\primerc++\empleado.h
+	"Persona.h"
+	"Fecha.h"
+
+1384818130 f:\nueva carpeta\programacion\si\c++\primerc++\persona.h
+	<iostream>
+	"Fecha.h"
+
+1385410608 f:\nueva carpeta\programacion\si\c++\primerc++\fecha.h
+	<iostream>
+
+1403908950 source:f:\nueva carpeta\programacion\si\c++\primerc++\fecha.cpp
+	<string.h>
+	<iostream>
+	"Fecha.h"
+	<stdlib.h>
+
+1385408188 source:f:\nueva carpeta\programacion\si\c++\primerc++\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Persona.h"
+	"Fecha.h"
+	"Empleado.h"
+
+1385408112 source:f:\nueva carpeta\programacion\si\c++\primerc++\persona.cpp
+	<iostream>
+	<string.h>
+	"persona.h"
+

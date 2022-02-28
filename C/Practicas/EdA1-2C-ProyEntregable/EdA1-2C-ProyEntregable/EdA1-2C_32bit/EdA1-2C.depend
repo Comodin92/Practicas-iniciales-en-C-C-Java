@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1602292065 source:c:\users\juan\desktop\facultad\programacion\renata cuarentena\eda1-2c-proyentregable\eda1-2c-proyentregable\eda1-2c_32bit\funciones.c
+	"funciones.h"
+
+1602026522 c:\users\juan\desktop\facultad\programacion\renata cuarentena\eda1-2c-proyentregable\eda1-2c-proyentregable\eda1-2c_32bit\funciones.h
+	<stdio.h>
+
+1602291400 source:c:\users\juan\desktop\facultad\programacion\renata cuarentena\eda1-2c-proyentregable\eda1-2c-proyentregable\eda1-2c_32bit\main.c
+	"main.h"
+
+1602026522 c:\users\juan\desktop\facultad\programacion\renata cuarentena\eda1-2c-proyentregable\eda1-2c-proyentregable\eda1-2c_32bit\main.h
+	<stdio.h>
+	"funciones.h"
+	<stdlib.h>
+

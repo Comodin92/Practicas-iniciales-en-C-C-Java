@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1508881766 source:c:\users\hogar\desktop\programacion-pezzola\textoaestructura-fijo-variable\main.c
+	"../Bibiotlecas/archivos.h"
+
+1508873994 c:\users\hogar\desktop\programacion-pezzola\bibiotlecas\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508875062 source:c:\users\hogar\desktop\programacion-pezzola\bibiotlecas\archivos.c
+	"archivos.h"
+
+1508875062 source:c:\users\hogar\desktop\programacion ordenado\programacion-pezzola\bibiotlecas\archivos.c
+	"archivos.h"
+
+1508873994 c:\users\hogar\desktop\programacion ordenado\programacion-pezzola\bibiotlecas\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508881766 source:c:\users\hogar\desktop\programacion ordenado\programacion-pezzola\textoaestructura-fijo-variable\main.c
+	"../Bibiotlecas/archivos.h"
+
+1508875062 source:c:\users\usuario\desktop\programacion\programacion\programacion ordenado\programacion-pezzola-2017\bibiotlecas\archivos.c
+	"archivos.h"
+
+1537537755 c:\users\usuario\desktop\programacion\programacion\programacion ordenado\programacion-pezzola-2017\bibiotlecas\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508881766 source:c:\users\usuario\desktop\programacion\programacion\programacion ordenado\programacion-pezzola-2017\textoaestructura-fijo-variable\main.c
+	"../Bibiotlecas/archivos.h"
+

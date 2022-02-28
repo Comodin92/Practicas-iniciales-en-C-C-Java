@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1353352542 source:d:\coding\c\entrega\unidad 5\ej2\main.cpp
+	<iostream>
+	"Hora.h"
+
+1353352528 source:d:\coding\c\entrega\unidad 5\ej2\hora.cpp
+	"Hora.h"
+
+1353353788 d:\coding\c\entrega\unidad 5\ej2\hora.h
+	<iostream>
+
+1353357805 source:c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos y mas!!\trabajo practico 5\unidad 5\ej2\main.cpp
+	<iostream>
+	"Hora.h"
+
+1353424398 c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos y mas!!\trabajo practico 5\unidad 5\ej2\hora.h
+	<iostream>
+
+1384375923 source:c:\users\maty\documents\ingeniería\programación\programacion agus\programacion\trabajos practicos resueltos y mas!!\trabajo practico 5\unidad 5\ej2\hora.cpp
+	"Hora.h"
+
+1459348230 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej2\hora.cpp
+	"Hora.h"
+
+1459348230 f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej2\hora.h
+	<iostream>
+
+1459348230 source:f:\nueva carpeta\programacion\si\c++\trabajo practico 5(guia)\unidad 5\ej2\main.cpp
+	<iostream>
+	"Hora.h"
+

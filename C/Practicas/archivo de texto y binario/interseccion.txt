@@ -1,0 +1,7 @@
+Dni:1  Apellido: Angeles Nombre:Romina Sueldo:500.00
+Dni:2  Apellido: Benitez Nombre:Jose Sueldo:1200.00
+Dni:3  Apellido: Canales Nombre:Martin Sueldo:5100.00
+Dni:4  Apellido: Diaz Nombre:Manuel Sueldo:1500.00
+Dni:5  Apellido: Estebanez Nombre:Eduardo Sueldo:4400.00
+Dni:6  Apellido: Fernandez Nombre:Romina Sueldo:5050.00
+Dni:7  Apellido: Gutierrez Nombre:Cecilia Sueldo:300.00

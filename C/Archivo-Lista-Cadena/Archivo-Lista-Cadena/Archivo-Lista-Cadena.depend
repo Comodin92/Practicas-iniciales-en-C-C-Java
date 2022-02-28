@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1503528336 source:c:\users\hogar\desktop\programacion-pezzola\bibiotlecas\vectores.c
+	"../Bibiotlecas/vectores.h"
+
+1503527648 c:\users\hogar\desktop\programacion-pezzola\bibiotlecas\vectores.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1508807678 source:c:\users\hogar\desktop\programacion-pezzola\primitivas\lista simplemente enlazada\lista.c
+	"Lista.h"
+
+1508524123 c:\users\hogar\desktop\programacion-pezzola\primitivas\lista simplemente enlazada\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1508861765 source:c:\users\hogar\desktop\programacion-pezzola\bibiotlecas\archivos.c
+	"archivos.h"
+
+1508861818 c:\users\hogar\desktop\programacion-pezzola\bibiotlecas\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508861299 source:c:\users\hogar\desktop\programacion-pezzola\archivo-lista-cadena\main.c
+	"../Bibiotlecas/archivos.h"
+	"../Bibiotlecas/vectores.h"
+
+1503528336 source:c:\users\usuario\desktop\facultad\programacion\programacion ordenado\programacion-pezzola-2017\bibiotlecas\vectores.c
+	"../Bibiotlecas/vectores.h"
+
+1503527648 c:\users\usuario\desktop\facultad\programacion\programacion ordenado\programacion-pezzola-2017\bibiotlecas\vectores.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1508861871 source:c:\users\usuario\desktop\facultad\programacion\programacion ordenado\programacion-pezzola-2017\archivo-lista-cadena\main.c
+	"../Bibiotlecas/archivos.h"
+	"../Bibiotlecas/vectores.h"
+
+1537537755 c:\users\usuario\desktop\facultad\programacion\programacion ordenado\programacion-pezzola-2017\bibiotlecas\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508875062 source:c:\users\usuario\desktop\programacion\karla\para que mires los de archivos\bibiotlecas\archivos.c
+	"archivos.h"
+
+1537537755 c:\users\usuario\desktop\programacion\karla\para que mires los de archivos\bibiotlecas\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1503528336 source:c:\users\usuario\desktop\programacion\karla\para que mires los de archivos\bibiotlecas\vectores.c
+	"../Bibiotlecas/vectores.h"
+
+1503527648 c:\users\usuario\desktop\programacion\karla\para que mires los de archivos\bibiotlecas\vectores.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1551193474 source:c:\users\usuario\desktop\programacion\karla\para que mires los de archivos\primitivas\lista simplemente enlazada\lista.c
+	"Lista.h"
+
+1508524123 c:\users\usuario\desktop\programacion\karla\para que mires los de archivos\primitivas\lista simplemente enlazada\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1508861871 source:c:\users\usuario\desktop\programacion\karla\para que mires los de archivos\archivo-lista-cadena\main.c
+	"../Bibiotlecas/archivos.h"
+	"../Bibiotlecas/vectores.h"
+

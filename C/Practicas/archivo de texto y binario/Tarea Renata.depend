@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1549633329 source:c:\users\dami\desktop\programacion verano practica casa\tarea renata\main.c
+	"tarea.h"
+
+1549633329 c:\users\dami\desktop\programacion verano practica casa\tarea renata\tarea.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1549633742 source:c:\users\dami\desktop\programacion verano practica casa\tarea renata\tarea.c
+	"tarea.h"
+
